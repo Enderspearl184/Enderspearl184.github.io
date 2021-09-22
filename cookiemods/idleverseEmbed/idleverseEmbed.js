@@ -21,6 +21,7 @@ M.launch = function(){
 		else Game.Notify('Minigame loaded!', '', '', 1, 1);
 	};
 	M.save=function(){};
+	M.reset=function(){};
 	M.init(l('rowSpecial' + M.parent.id));
 }
 
