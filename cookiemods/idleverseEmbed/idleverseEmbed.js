@@ -12,7 +12,7 @@ M.launch = function(){
 	var M = this;
 
 	M.init = function(div){
-   		div.style.height="300px";
+   		div.style.height="600px";
 		var str = '';
 		str += '<iframe height=100% width=100% src="https://orteil.dashnet.org/experiments/cookie"></iframe>';
 		div.innerHTML = str;
