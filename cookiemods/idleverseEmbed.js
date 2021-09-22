@@ -1,6 +1,6 @@
 if(Game.Objects['Idleverse'].minigame) throw new Error("Cannot load minigame over itself.");
 
-//if(typeof CCSE == 'undefined') Game.LoadMod('https://klattmose.github.io/CookieClicker/' + (0 ? 'Beta/' : '') + 'CCSE.js');
+if(typeof CCSE == 'undefined') Game.LoadMod('https://klattmose.github.io/CookieClicker/' + (0 ? 'Beta/' : '') + 'CCSE.js');
 var M = {};
 M.parent = Game.Objects['Idleverse'];
 M.parent.minigame = M;
@@ -37,13 +37,13 @@ M.launcher = function(){
 	Game.LoadMinigames();
 }
 
-//if(CCSE && CCSE.isLoaded){
+if(CCSE && CCSE.isLoaded){
 	M.launcher();
-//}
-//else{
-//	if(!CCSE) var CCSE = {};
-//	if(!CCSE.postLoadHooks) CCSE.postLoadHooks = [];
-//	CCSE.postLoadHooks.push(M.launcher);
-//}
+}
+else{
+	if(!CCSE) var CCSE = {};
+	if(!CCSE.postLoadHooks) CCSE.postLoadHooks = [];
+	CCSE.postLoadHooks.push(M.launcher);
+}
 
 var M = 0;
