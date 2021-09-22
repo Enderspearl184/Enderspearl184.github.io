@@ -39,7 +39,7 @@ M.launcher = function(){
 
 //if(CCSE && CCSE.isLoaded){
 	M.launcher();
-}
+//}
 //else{
 //	if(!CCSE) var CCSE = {};
 //	if(!CCSE.postLoadHooks) CCSE.postLoadHooks = [];
