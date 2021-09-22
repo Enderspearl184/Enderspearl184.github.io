@@ -19,10 +19,6 @@ M.launch = function(){
 		if (Game.prefs.popups) Game.Popup('Minigame loaded!');
 		else Game.Notify('Minigame loaded!', '', '', 1, 1);
 	}
-
-    M.reset=function(){
-        M.init(l('rowSpecial' + M.parent.id));
-    }
 	
 	M.init(l('rowSpecial' + M.parent.id));
 }
@@ -32,7 +28,7 @@ M.launcher = function(){
     console.log("launcher")
 	var M = Game.Objects['Idleverse'].minigame;
 	M.parent.minigameName = 'Classic Clicker';
-	
+	M.parent.minigameUrl = 'https://enderspearl184.github.io/cookiemods/idleverseEmbed/dummy.js'
 	M.name = M.parent.minigameName;
 	M.savePrefix = 'minigameClicker';
 	Game.LoadMinigames();
