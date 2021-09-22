@@ -275,11 +275,11 @@ M.launch = function(){
 
 
 M.launcher = function(){
-	var M = Game.Objects['Chancemaker'].minigame;
+	var M = Game.Objects['Idleverse'].minigame;
 	
 	// Stuff that needs to wait for CCSE but should only run once goes here
 	M.parent.minigameUrl = 'https://klattmose.github.io/CookieClicker/dummyFile.js';
-	M.parent.minigameName = 'Casino';
+	M.parent.minigameName = 'Classic Clicker';
 	
 	M.name = M.parent.minigameName;
 	M.savePrefix = 'minigameCasino';
