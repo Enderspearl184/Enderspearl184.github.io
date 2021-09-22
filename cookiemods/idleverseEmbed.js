@@ -21,6 +21,10 @@ M.launch = function(){
 	M.init(l('rowSpecial' + M.parent.id));
 }
 
+M.reset=function(){
+    M.init(l('rowSpecial' + M.parent.id));
+}
+
 
 M.launcher = function(){
 	var M = Game.Objects['Idleverse'].minigame;
