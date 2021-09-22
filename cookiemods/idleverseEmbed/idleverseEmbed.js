@@ -13,7 +13,7 @@ M.launch = function(){
 
 	M.init = function(div){
 		var str = '';
-		str += '<iframe src="https://orteil.dashnet.org/experiments/cookie"></iframe>';
+		str += '<iframe height=100% width=100% src="https://orteil.dashnet.org/experiments/cookie"></iframe>';
 		div.innerHTML = str;
 		M.loadedCount++;
 		if (Game.prefs.popups) Game.Popup('Minigame loaded!');
