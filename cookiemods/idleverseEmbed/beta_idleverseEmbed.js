@@ -12,15 +12,18 @@ M.launch = function(){
 	var M = this;
 
 	M.init = function(div){
-    div.height="968"
+   		div.style.height="300px";
 		var str = '';
 		str += '<iframe height=100% width=100% src="https://orteil.dashnet.org/experiments/cookie"></iframe>';
 		div.innerHTML = str;
+		div.children[0].style.zoom=0.75
+		div.children[0].style["-moz-transform"]={scale:0.75}
+		div.children[0].style["-moz-transform-origin"]=[0,0]
 		M.loadedCount++;
 		if (Game.prefs.popups) Game.Popup('Minigame loaded!');
 		else Game.Notify('Minigame loaded!', '', '', 1, 1);
-	}
-	
+	};
+	M.save=function(){};
 	M.init(l('rowSpecial' + M.parent.id));
 }
 
