@@ -8,6 +8,7 @@ M.version = '3.16';
 M.GameVersion = '2.031';
 
 M.launch = function(){
+    console.log("launch")
 	var M = this;
 
 	M.init = function(div){
@@ -28,6 +29,7 @@ M.launch = function(){
 
 
 M.launcher = function(){
+    console.log("launcher")
 	var M = Game.Objects['Idleverse'].minigame;
 	M.parent.minigameName = 'Classic Clicker';
 	
