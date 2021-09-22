@@ -12,14 +12,15 @@ M.launch = function(){
 	var M = this;
 
 	M.init = function(div){
+   		div.style.height="300px";
 		var str = '';
 		str += '<iframe height=100% width=100% src="https://orteil.dashnet.org/experiments/cookie"></iframe>';
 		div.innerHTML = str;
 		M.loadedCount++;
 		if (Game.prefs.popups) Game.Popup('Minigame loaded!');
 		else Game.Notify('Minigame loaded!', '', '', 1, 1);
-	}
-	
+	};
+	M.save=function(){};
 	M.init(l('rowSpecial' + M.parent.id));
 }
 
