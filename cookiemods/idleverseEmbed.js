@@ -9,6 +9,7 @@ M.GameVersion = '2.031';
 
 M.launch = function(){
 	var M = this;
+
 	M.init = function(div){
 		var str = '';
 		str += '<iframe src="https://orteil.dashnet.org/experiments/cookie"></iframe>';
@@ -17,12 +18,12 @@ M.launch = function(){
 		if (Game.prefs.popups) Game.Popup('Minigame loaded!');
 		else Game.Notify('Minigame loaded!', '', '', 1, 1);
 	}
+
+    M.reset=function(){
+        M.init(l('rowSpecial' + M.parent.id));
+    }
 	
 	M.init(l('rowSpecial' + M.parent.id));
-}
-
-M.reset=function(){
-    M.init(l('rowSpecial' + M.parent.id));
 }
 
 
