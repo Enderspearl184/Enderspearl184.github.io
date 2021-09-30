@@ -1,0 +1,27 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/client/interface/catalog/catalog_furniture/CatalogFurniture.js",
+                "type": "script",
+                "key": "CatalogFurniture"
+            },
+            {
+                "url": "assets/client/interface/catalog/catalog_furniture/prefab/FurnitureBuy.js",
+                "type": "script",
+                "key": "FurnitureBuy"
+            },
+            {
+                "url": "assets/client/interface/catalog/catalog_furniture/prefab/FurnitureSecret.js",
+                "type": "script",
+                "key": "FurnitureSecret"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

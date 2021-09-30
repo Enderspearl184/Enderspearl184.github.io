@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "815@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 92,
+				"h": 163
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "815",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 205,
+						"y": 170,
+						"w": 90,
+						"h": 161
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 90,
+						"h": 161
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:663f4015a65e19ac7cb54bd7c3d7e4c8:9161a270827a0c2ae9ee665d136acf15:3224facc0fd9e4f56521ff7c9e6993b5$"
+	}
+}

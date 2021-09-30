@@ -1,0 +1,784 @@
+{
+  "100": {
+    "music_id": "the_ringmaster",
+    "is_member": false,
+    "english": "Town",
+    "name": "town",
+    "max_users": 80
+  },
+  "110": {
+    "music_id": "MUS_Evergreen_KingofKingston_CoffeeShop",
+    "is_member": false,
+    "english": "Coffee Shop",
+    "name": "coffee",
+    "max_users": 80
+  },
+  "111": {
+    "music_id": "MUS_Evergreen_KingofKingston_CoffeeShop",
+    "is_member": false,
+    "english": "Book Room",
+    "name": "book",
+    "max_users": 80
+  },
+  "112": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Welcome Solo",
+    "name": "welcomesolo",
+    "max_users": 80
+  },
+  "120": {
+    "music_id": "MUS_AprilFools_CrossingOver_NightClub",
+    "is_member": false,
+    "english": "Dance Club",
+    "name": "dance",
+    "max_users": 80
+  },
+  "121": {
+    "music_id": "MUS_AprilFools_CrossingOver_NightClub",
+    "is_member": false,
+    "english": "Arcade",
+    "name": "lounge",
+    "max_users": 80
+  },
+  "122": {
+    "music_id": 285,
+    "is_member": false,
+    "english": "Recycling Plant",
+    "name": "eco",
+    "max_users": 80
+  },
+  "130": {
+    "music_id": "MUS_Evergreen_Fashion_GiftShopAmb",
+    "is_member": false,
+    "english": "Gift Shop",
+    "name": "shop",
+    "max_users": 80
+  },
+  "200": {
+    "music_id": "the_ringmaster",
+    "is_member": false,
+    "english": "Ski Village",
+    "name": "village",
+    "max_users": 80
+  },
+  "211": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "The Facility",
+    "name": "agentlobbysolo",
+    "max_users": 80
+  },
+  "212": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Everyday Phoning Facility",
+    "name": "agentlobbymulti",
+    "max_users": 80
+  },
+  "213": {
+    "music_id": 1058,
+    "is_member": false,
+    "english": "Recon",
+    "name": "recon",
+    "max_users": 80
+  },
+  "214": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Welcome",
+    "name": "welcome",
+    "max_users": 80
+  },
+  "220": {
+    "music_id": 589,
+    "is_member": false,
+    "english": "Ski Lodge",
+    "name": "lodge",
+    "max_users": 80
+  },
+  "221": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Lodge Attic",
+    "name": "attic",
+    "max_users": 80
+  },
+  "230": {
+    "music_id": 590,
+    "is_member": false,
+    "english": "Mountain",
+    "name": "mtn",
+    "max_users": 80
+  },
+  "300": {
+    "music_id": "the_ringmaster",
+    "is_member": false,
+    "english": "Plaza",
+    "name": "plaza",
+    "max_users": 80
+  },
+  "310": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Pet Shop",
+    "name": "pet",
+    "max_users": 80
+  },
+  "320": {
+    "music_id": "21_1|21_2",
+    "is_member": false,
+    "english": "Dojo",
+    "name": "dojo",
+    "max_users": 80
+  },
+  "321": {
+    "music_id": 404,
+    "is_member": false,
+    "english": "Dojo Courtyard",
+    "name": "dojoext",
+    "max_users": 80
+  },
+  "322": {
+    "music_id": "21_1|21_2",
+    "is_member": false,
+    "english": "Ninja Hideout",
+    "name": "dojohide",
+    "max_users": 80
+  },
+  "323": {
+    "music_id": 378,
+    "is_member": false,
+    "english": "EPF Command Room",
+    "name": "agentcom",
+    "max_users": 80
+  },
+  "324": {
+    "music_id": 404,
+    "is_member": false,
+    "english": "Dojo Courtyard Solo",
+    "name": "dojoextsolo",
+    "max_users": 80
+  },
+  "330": {
+    "music_id": "yeehaw",
+    "is_member": false,
+    "english": "Pizza Parlor",
+    "name": "pizza",
+    "max_users": 80
+  },
+  "340": {
+    "music_id": 230,
+    "is_member": false,
+    "english": "Stage",
+    "name": "stage",
+    "max_users": 80
+  },
+  "400": {
+    "music_id": "fallfair",
+    "is_member": false,
+    "english": "Beach",
+    "name": "beach",
+    "max_users": 80
+  },
+  "410": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Lighthouse",
+    "name": "light",
+    "max_users": 80
+  },
+  "411": {
+    "music_id": "fallfair",
+    "is_member": false,
+    "english": "Beacon",
+    "name": "beacon",
+    "max_users": 80
+  },
+  "420": {
+    "music_id": 318,
+    "is_member": false,
+    "english": "Pirate Ship",
+    "name": "ship",
+    "max_users": 80
+  },
+  "421": {
+    "music_id": 491,
+    "is_member": false,
+    "english": "Ship Hold",
+    "name": "shiphold",
+    "max_users": 80
+  },
+  "422": {
+    "music_id": 491,
+    "is_member": false,
+    "english": "Captain's Quarters",
+    "name": "shipquarters",
+    "max_users": 80
+  },
+  "423": {
+    "music_id": 492,
+    "is_member": false,
+    "english": "Crow's Nest",
+    "name": "shipnest",
+    "max_users": 80
+  },
+  "800": {
+    "music_id": "fallfair",
+    "is_member": false,
+    "english": "Dock",
+    "name": "dock",
+    "max_users": 80
+  },
+  "801": {
+    "music_id": "fallfair",
+    "is_member": false,
+    "english": "Snow Forts",
+    "name": "forts",
+    "max_users": 80
+  },
+  "802": {
+    "music_id": "fallfair",
+    "is_member": false,
+    "english": "Stadium",
+    "name": "rink",
+    "max_users": 80
+  },
+  "803": {
+    "music_id": 7,
+    "is_member": false,
+    "english": "HQ",
+    "name": "agent",
+    "max_users": 80
+  },
+  "804": {
+    "music_id": 6,
+    "is_member": false,
+    "english": "Boiler Room",
+    "name": "boiler",
+    "max_users": 80
+  },
+  "805": {
+    "music_id": "fallfair",
+    "is_member": false,
+    "english": "Iceberg",
+    "name": "berg",
+    "max_users": 80
+  },
+  "806": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Cave",
+    "name": "cave",
+    "max_users": 80
+  },
+  "807": {
+    "music_id": "yeehaw",
+    "is_member": false,
+    "english": "Mine Shack",
+    "name": "shack",
+    "max_users": 80
+  },
+  "808": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Mine",
+    "name": "mine",
+    "max_users": 80
+  },
+  "809": {
+    "music_id": "yeehaw",
+    "is_member": false,
+    "english": "Forest",
+    "name": "forest",
+    "max_users": 80
+  },
+  "810": {
+    "music_id": "yeehaw",
+    "is_member": false,
+    "english": "Cove",
+    "name": "cove",
+    "max_users": 80
+  },
+  "811": {
+    "music_id": "MUS_Evergreen_BoxDimension",
+    "is_member": false,
+    "english": "Box Dimension",
+    "name": "boxdimension",
+    "max_users": 80
+  },
+  "812": {
+    "music_id": 405,
+    "is_member": false,
+    "english": "Fire Dojo",
+    "name": "dojofire",
+    "max_users": 80
+  },
+  "813": {
+    "music_id": 532,
+    "is_member": false,
+    "english": "Cave Mine",
+    "name": "cavemine",
+    "max_users": 80
+  },
+  "814": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Hidden Lake",
+    "name": "lake",
+    "max_users": 80
+  },
+  "815": {
+    "music_id": 0,
+    "is_member": true,
+    "english": "Underwater Room",
+    "name": "underwater",
+    "max_users": 80
+  },
+  "816": {
+    "music_id": 406,
+    "is_member": false,
+    "english": "Water Dojo",
+    "name": "dojowater",
+    "max_users": 80
+  },
+  "817": {
+    "music_id": 403,
+    "is_member": false,
+    "english": "Hidden Dojo Room",
+    "name": "dojosecret",
+    "max_users": 80
+  },
+  "818": {
+    "music_id": 307,
+    "is_member": false,
+    "english": "Dojo Pathway",
+    "name": "dojopath",
+    "max_users": 80
+  },
+  "819": {
+    "music_id": 307,
+    "is_member": false,
+    "english": "Serene Springs",
+    "name": "serene_springs",
+    "max_users": 80
+  },
+  "820": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Secret Lab",
+    "name": "partysolo",
+    "max_users": 80
+  },
+  "824": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Pool",
+    "name": "pool",
+    "max_users": 80
+  },
+  "851": {
+    "music_id": "gameroom",
+    "is_member": false,
+    "english": "Game Room",
+    "name": "party1",
+    "max_users": 80
+  },
+  "852": {
+    "music_id": "space_music",
+    "is_member": false,
+    "english": "Space FunZone",
+    "name": "party2",
+    "max_users": 80
+  },
+  "853": {
+    "music_id": "coffeespace",
+    "is_member": false,
+    "english": "Blast-Off Bistro",
+    "name": "party3",
+    "max_users": 40
+  },
+  "854": {
+    "music_id": 728,
+    "is_member": false,
+    "english": "Whacky House",
+    "name": "party4",
+    "max_users": 80
+  },
+  "855": {
+    "music_id": "spacebeat",
+    "is_member": false,
+    "english": "Dance Dome",
+    "name": "party5",
+    "max_users": 20
+  },
+  "856": {
+    "music_id": "mountainview",
+    "is_member": false,
+    "english": "Wagon Wheel",
+    "name": "party6",
+    "max_users": 50
+  },
+  "857": {
+    "music_id": "monster_mayhem",
+    "is_member": false,
+    "english": "Space Coaster",
+    "name": "party7",
+    "max_users": 20
+  },
+  "858": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Party Room 8",
+    "name": "party8",
+    "max_users": 80
+  },
+  "859": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Party Room 9",
+    "name": "party9",
+    "max_users": 80
+  },
+  "860": {
+    "music_id": 117,
+    "is_member": false,
+    "english": "Maze",
+    "name": "party10",
+    "max_users": 80
+  },
+  "861": {
+    "music_id": 247,
+    "is_member": true,
+    "english": "Quest",
+    "name": "party11",
+    "max_users": 80
+  },
+  "862": {
+    "music_id": 304,
+    "is_member": true,
+    "english": "Quest",
+    "name": "party12",
+    "max_users": 80
+  },
+  "863": {
+    "music_id": 305,
+    "is_member": true,
+    "english": "Quest",
+    "name": "party13",
+    "max_users": 80
+  },
+  "864": {
+    "music_id": 286,
+    "is_member": true,
+    "english": "Beneath Volcano",
+    "name": "party14",
+    "max_users": 80
+  },
+  "865": {
+    "music_id": 286,
+    "is_member": true,
+    "english": "Beneath Volcano",
+    "name": "party15",
+    "max_users": 80
+  },
+  "866": {
+    "music_id": 287,
+    "is_member": true,
+    "english": "Beneath Volcano",
+    "name": "party16",
+    "max_users": 80
+  },
+  "867": {
+    "music_id": 288,
+    "is_member": true,
+    "english": "Beneath Volcano",
+    "name": "party17",
+    "max_users": 80
+  },
+  "868": {
+    "music_id": 265,
+    "is_member": true,
+    "english": "Treasure Room",
+    "name": "party18",
+    "max_users": 80
+  },
+  "869": {
+    "music_id": 310,
+    "is_member": true,
+    "english": "Quest",
+    "name": "party19",
+    "max_users": 80
+  },
+  "870": {
+    "music_id": 310,
+    "is_member": true,
+    "english": "Quest",
+    "name": "party20",
+    "max_users": 80
+  },
+  "871": {
+    "music_id": 309,
+    "is_member": true,
+    "english": "Quest",
+    "name": "party21",
+    "max_users": 80
+  },
+  "872": {
+    "music_id": 308,
+    "is_member": true,
+    "english": "Quest",
+    "name": "party22",
+    "max_users": 80
+  },
+  "873": {
+    "music_id": 41,
+    "is_member": true,
+    "english": "Quest",
+    "name": "party23",
+    "max_users": 80
+  },
+  "874": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Castle Entrance",
+    "name": "party24",
+    "max_users": 80
+  },
+  "875": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Castle Of The Lost",
+    "name": "party25",
+    "max_users": 80
+  },
+  "876": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Dragon Queen Lair",
+    "name": "party26",
+    "max_users": 80
+  },
+  "877": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "Crystal Treasure Room",
+    "name": "party27",
+    "max_users": 80
+  },
+  "878": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "",
+    "name": "party28",
+    "max_users": 80
+  },
+  "890": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "???",
+    "name": "party99",
+    "max_users": 80
+  },
+  "899": {
+    "music_id": 40,
+    "is_member": false,
+    "english": "Concert",
+    "name": "party",
+    "max_users": 80
+  },
+  "900": {
+    "name": "astro",
+    "music_id": 0,
+    "is_member": false,
+    "english": "Astro Barrier",
+    "max_users": 999,
+    "emulated": true
+  },
+  "901": {
+    "name": "beans",
+    "music_id": 101,
+    "is_member": false,
+    "english": "Bean Counters",
+    "max_users": 999,
+    "emulated": true
+  },
+  "902": {
+    "name": "roundup",
+    "music_id": 102,
+    "is_member": false,
+    "english": "Puffle Roundup",
+    "max_users": 999
+  },
+  "903": {
+    "name": "hydro",
+    "music_id": 100,
+    "is_member": false,
+    "english": "Hydro-Hopper",
+    "max_users": 999
+  },
+  "904": {
+    "name": "fish",
+    "music_id": 103,
+    "is_member": false,
+    "english": "Ice Fishing",
+    "max_users": 999,
+    "emulated": true
+  },
+  "905": {
+    "name": "cart",
+    "music_id": 105,
+    "is_member": false,
+    "english": "Cart Surfer",
+    "max_users": 999,
+    "emulated": true
+  },
+  "906": {
+    "name": "jetpack",
+    "music_id": 110,
+    "is_member": false,
+    "english": "Jet Pack Adventure",
+    "max_users": 999,
+    "emulated": true
+  },
+  "909": {
+    "name": "thinice",
+    "music_id": "111|111_1|111_2|111_3",
+    "is_member": false,
+    "english": "Thin Ice",
+    "max_users": 999,
+    "emulated": true
+  },
+  "910": {
+    "name": "pizzatron",
+    "music_id": 106,
+    "is_member": false,
+    "english": "Pizzatron 3000",
+    "max_users": 999
+  },
+  "916": {
+    "name": "sub",
+    "music_id": 0,
+    "is_member": false,
+    "english": "Aqua Grabber",
+    "max_users": 999,
+    "emulated": true
+  },
+  "949": {
+    "name": "rescue",
+    "music_id": 0,
+    "is_member": false,
+    "english": "Puffle Rescue",
+    "max_users": 999,
+    "emulated": true
+  },
+  "952": {
+    "name": "dancing",
+    "music_id": 0,
+    "is_member": false,
+    "english": "Dance Contest",
+    "max_users": 999,
+    "emulated": true
+  },
+  "962": {
+    "music_id": 0,
+    "is_member": false,
+    "english": "",
+    "name": "partygame",
+    "max_users": 80
+  },
+  "912": {
+    "name": "waves",
+    "music_id": 113,
+    "is_member": false,
+    "english": "Catchin' Waves",
+    "max_users": 999,
+    "emulated": true
+  },
+  "999": {
+    "name": "sled",
+    "music_id": 117,
+    "is_member": false,
+    "english": "Sled Racing",
+    "max_users": 999
+  },
+  "907": {
+    "name": "missions",
+    "music_id": 0,
+    "is_member": false,
+    "english": "Training Missions",
+    "max_users": 999
+  },
+  "941": {
+    "name": "soaker",
+    "music_id": "carnival_fun",
+    "is_member": false,
+    "english": "Puffle Soaker",
+    "max_users": 999,
+    "emulated": true,
+    "ticket_mode": true
+  },
+  "942": {
+    "name": "balloon",
+    "music_id": "carnival_fun",
+    "is_member": false,
+    "english": "Balloon Pop",
+    "max_users": 999,
+    "emulated": true,
+    "ticket_mode": true
+  },
+  "943": {
+    "name": "bell",
+    "music_id": "carnival_fun",
+    "is_member": false,
+    "english": "Ring The Bell",
+    "max_users": 999,
+    "emulated": false,
+    "ticket_mode": true
+  },
+  "944": {
+    "name": "feed",
+    "music_id": "carnival_fun",
+    "is_member": false,
+    "english": "Feed-A-Puffle",
+    "max_users": 999,
+    "emulated": true,
+    "ticket_mode": true
+  },
+  "945": {
+    "name": "memory",
+    "music_id": "carnival_fun",
+    "is_member": false,
+    "english": "Memory Card",
+    "max_users": 999,
+    "emulated": true,
+    "ticket_mode": true
+  },
+  "946": {
+    "name": "paddle",
+    "music_id": "carnival_fun",
+    "is_member": false,
+    "english": "Puffle Paddle",
+    "max_users": 999,
+    "emulated": false,
+    "ticket_mode": true
+  },
+  "947": {
+    "name": "shuffle",
+    "music_id": "carnival_fun",
+    "is_member": false,
+    "english": "Puffle Shuffle",
+    "max_users": 999,
+    "emulated": true,
+    "ticket_mode": true
+  },
+  "948": {
+    "name": "spinthewheel",
+    "music_id": "gameroom",
+    "is_member": false,
+    "english": "Spin The Wheel",
+    "max_users": 999,
+    "emulated": false,
+    "ticket_mode": true
+  }
+}

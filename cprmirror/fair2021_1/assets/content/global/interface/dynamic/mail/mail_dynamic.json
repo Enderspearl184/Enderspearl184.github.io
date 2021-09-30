@@ -1,0 +1,39 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/content/global/interface/dynamic/mail/svg/mail_background.svg",
+                "svgConfig": {
+                    "width": 1520,
+                    "height": 960
+                },
+                "type": "svg",
+                "key": "mail_background"
+            },
+            {
+                "url": "assets/content/global/interface/dynamic/mail/svg/mail_book.svg",
+                "svgConfig": {
+                    "width": 1520,
+                    "height": 960
+                },
+                "type": "svg",
+                "key": "mail_book"
+            },
+            {
+                "url": "assets/content/global/interface/dynamic/mail/svg/mail_sticky.svg",
+                "svgConfig": {
+                    "width": 1520,
+                    "height": 960
+                },
+                "type": "svg",
+                "key": "mail_sticky"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

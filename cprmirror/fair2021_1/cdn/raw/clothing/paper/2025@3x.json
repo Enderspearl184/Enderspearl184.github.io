@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "2025@3x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 142,
+				"h": 129
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "2025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 525,
+						"h": 525
+					},
+					"spriteSourceSize": {
+						"x": 205,
+						"y": 175,
+						"w": 140,
+						"h": 127
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 140,
+						"h": 127
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cce7ff123b33155f3a0e25ca679a3b5a:46ece9e92e224c2b33c1e078540e6245:bf5ec3e9eb3e0289ef3064c0dfcc5bde$"
+	}
+}

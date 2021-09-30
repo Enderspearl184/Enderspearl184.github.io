@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "bakedgingerbread@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1533,
+				"h": 2013
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bakedgingerbread/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "bakedgingerbread/foreground2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 296,
+						"w": 1523,
+						"h": 645
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 1523,
+						"h": 645
+					}
+				},
+				{
+					"filename": "bakedgingerbread/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 265,
+						"y": 546,
+						"w": 1028,
+						"h": 395
+					},
+					"frame": {
+						"x": 1,
+						"y": 1617,
+						"w": 1028,
+						"h": 395
+					}
+				},
+				{
+					"filename": "bakedgingerbread/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 75,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 54,
+						"h": 219
+					},
+					"frame": {
+						"x": 1031,
+						"y": 1617,
+						"w": 54,
+						"h": 219
+					}
+				},
+				{
+					"filename": "bakedgingerbread/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 75,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 75,
+						"h": 211
+					},
+					"frame": {
+						"x": 1087,
+						"y": 1617,
+						"w": 75,
+						"h": 211
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4b525a30d069c7f35162a031dcfd98d2:8da9ccc69b1391cbc351884080c74495:3b6371ba79181d19ab7cf961c939b389$"
+	}
+}

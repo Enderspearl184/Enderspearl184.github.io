@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "fishbowl@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1107,
+				"h": 1774
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fishbowl/glass",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 225,
+						"y": 4,
+						"w": 1105,
+						"h": 950
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1105,
+						"h": 950
+					}
+				},
+				{
+					"filename": "fishbowl/bowl",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 125,
+						"w": 1081,
+						"h": 820
+					},
+					"frame": {
+						"x": 1,
+						"y": 953,
+						"w": 1081,
+						"h": 820
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:654e073d1a5a9d9a85ec482355b4225a:c8bb603f4da6dc2271b2733659484851:d490b67e7a5196e225c82d40c4f44af5$"
+	}
+}

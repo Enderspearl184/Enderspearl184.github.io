@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "frostbite@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1533,
+				"h": 1928
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "frostbite/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "frostbite/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 1404,
+						"h": 957
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 1404,
+						"h": 957
+					}
+				},
+				{
+					"filename": "frostbite/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 184,
+						"h": 375
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 23,
+						"w": 115,
+						"h": 335
+					},
+					"frame": {
+						"x": 1407,
+						"y": 970,
+						"w": 115,
+						"h": 335
+					}
+				},
+				{
+					"filename": "frostbite/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 184,
+						"h": 375
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 105,
+						"h": 331
+					},
+					"frame": {
+						"x": 1407,
+						"y": 1307,
+						"w": 105,
+						"h": 331
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a6365b23340cb917664764b79464feca:28879eab5f5f02a1841f59a3af4e7a5b:eaf996a299c0a39939546715211291ef$"
+	}
+}

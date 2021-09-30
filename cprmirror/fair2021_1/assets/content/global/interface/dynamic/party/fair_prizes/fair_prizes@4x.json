@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "fair_prizes@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1630,
+				"h": 830
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fair_prizes/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 68,
+						"w": 1505,
+						"h": 828
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1505,
+						"h": 828
+					}
+				},
+				{
+					"filename": "fair_prizes/tick0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 148
+					},
+					"frame": {
+						"x": 1508,
+						"y": 1,
+						"w": 121,
+						"h": 148
+					}
+				},
+				{
+					"filename": "fair_prizes/question",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 137
+					},
+					"frame": {
+						"x": 1508,
+						"y": 151,
+						"w": 102,
+						"h": 137
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:809650f2984b8f7d62bf9059002ef38c:f76df9059c85c0aacb6eb8e3d540ea90:aa0c1795a3e7906f68f8aa8f4c9ab047$"
+	}
+}

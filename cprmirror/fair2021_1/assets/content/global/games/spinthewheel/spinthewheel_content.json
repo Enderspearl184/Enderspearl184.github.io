@@ -1,0 +1,75 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/games/spinthewheel/spinthewheel.json",
+                "path": "assets/content/global/games/spinthewheel",
+                "key": "spinthewheel"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/spinthewheel/audio/stw_0.mp3"
+                ],
+                "type": "audio",
+                "key": "stw_0"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/spinthewheel/audio/stw_1.mp3"
+                ],
+                "type": "audio",
+                "key": "stw_1"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/spinthewheel/audio/stw_2.mp3"
+                ],
+                "type": "audio",
+                "key": "stw_2"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/spinthewheel/audio/stw_3.mp3"
+                ],
+                "type": "audio",
+                "key": "stw_3"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/spinthewheel/audio/stw_4.mp3"
+                ],
+                "type": "audio",
+                "key": "stw_4"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/spinthewheel/audio/stw_5.mp3"
+                ],
+                "type": "audio",
+                "key": "stw_5"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/spinthewheel/audio/stw_reward.mp3"
+                ],
+                "type": "audio",
+                "key": "stw_reward"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/spinthewheel/audio/stw_wrong.mp3"
+                ],
+                "type": "audio",
+                "key": "stw_wrong"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

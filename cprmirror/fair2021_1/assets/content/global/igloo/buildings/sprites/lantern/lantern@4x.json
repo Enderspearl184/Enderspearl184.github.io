@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "lantern@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1415,
+				"h": 969
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lantern/lantern",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 0,
+						"w": 1413,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1413,
+						"h": 967
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:35048adb0e2cdda627fcc272248f9770:ac04af0366bc5181d0fa408ec6ff0753:48f07cf4a793e6758a801d0635162cf2$"
+	}
+}

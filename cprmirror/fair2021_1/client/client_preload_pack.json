@@ -1,0 +1,47 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/client/util/ClientUtils.js?v=1.7.29-beta",
+                "type": "script",
+                "key": "ClientUtils"
+            },
+            {
+                "url": "assets/client/util/CryptoUtils.js?v=1.7.29-beta",
+                "type": "script",
+                "key": "CryptoUtils"
+            },
+            {
+                "url": "assets/client/system/components/LocalizedText.js?v=1.7.29-beta",
+                "type": "script",
+                "key": "LocalizedText"
+            },
+            {
+                "url": "assets/client/util/MathUtils.js?v=1.7.29-beta",
+                "type": "script",
+                "key": "MathUtils"
+            },
+            {
+                "url": "assets/client/scenes/preload/PreloadScene.js?v=1.7.29-beta",
+                "type": "sceneFile",
+                "key": "PreloadScene"
+            },
+            {
+                "url": "assets/client/util/RND.js?v=1.7.29-beta",
+                "type": "script",
+                "key": "RND"
+            },
+            {
+                "url": "assets/client/World.js?v=1.7.29-beta",
+                "type": "script",
+                "key": "World"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "deluxegingerbread@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1576,
+				"h": 1993
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deluxegingerbread/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 75,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 75,
+						"h": 211
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 75,
+						"h": 211
+					}
+				},
+				{
+					"filename": "deluxegingerbread/door0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 75,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 74,
+						"h": 211
+					},
+					"frame": {
+						"x": 78,
+						"y": 1,
+						"w": 74,
+						"h": 211
+					}
+				},
+				{
+					"filename": "deluxegingerbread/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 75,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 54,
+						"h": 219
+					},
+					"frame": {
+						"x": 154,
+						"y": 1,
+						"w": 54,
+						"h": 219
+					}
+				},
+				{
+					"filename": "deluxegingerbread/door0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 75,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 54,
+						"h": 219
+					},
+					"frame": {
+						"x": 154,
+						"y": 1,
+						"w": 54,
+						"h": 219
+					}
+				},
+				{
+					"filename": "deluxegingerbread/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 265,
+						"y": 546,
+						"w": 1028,
+						"h": 395
+					},
+					"frame": {
+						"x": 210,
+						"y": 1,
+						"w": 1028,
+						"h": 395
+					}
+				},
+				{
+					"filename": "deluxegingerbread/foreground2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 296,
+						"w": 1523,
+						"h": 595
+					},
+					"frame": {
+						"x": 1,
+						"y": 398,
+						"w": 1523,
+						"h": 595
+					}
+				},
+				{
+					"filename": "deluxegingerbread/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1574,
+						"h": 997
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1574,
+						"h": 997
+					},
+					"frame": {
+						"x": 1,
+						"y": 995,
+						"w": 1574,
+						"h": 997
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f1b5af5189664453c1b1d013e0c97282:60a73071a1b73f9dd971cbba30f32131:67e3edc166dec7b611259752fd0a5f33$"
+	}
+}

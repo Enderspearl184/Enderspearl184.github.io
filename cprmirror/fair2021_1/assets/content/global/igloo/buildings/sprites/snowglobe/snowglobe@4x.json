@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "snowglobe@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1200,
+				"h": 1648
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "snowglobe/globe",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 154,
+						"y": 131,
+						"w": 1198,
+						"h": 829
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1198,
+						"h": 829
+					}
+				},
+				{
+					"filename": "snowglobe/glass",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 167,
+						"y": 79,
+						"w": 1168,
+						"h": 732
+					},
+					"frame": {
+						"x": 1,
+						"y": 832,
+						"w": 1168,
+						"h": 732
+					}
+				},
+				{
+					"filename": "snowglobe/hometxt",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 532,
+						"y": 513,
+						"w": 456,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 1566,
+						"w": 456,
+						"h": 34
+					}
+				},
+				{
+					"filename": "snowglobe/shaketxt",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 679,
+						"y": 487,
+						"w": 148,
+						"h": 81
+					},
+					"frame": {
+						"x": 459,
+						"y": 1566,
+						"w": 148,
+						"h": 81
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:88de303967de2647b8fa5fb72d8af518:1721aecd06018e15dac3c60ffca76ba6:d976f92bb13e3713297ebcb8e3f43c73$"
+	}
+}

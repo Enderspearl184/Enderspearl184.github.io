@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "snow@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1024,
+				"h": 952
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "snow/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 364,
+						"y": 360,
+						"w": 792,
+						"h": 340
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 792,
+						"h": 340
+					}
+				},
+				{
+					"filename": "snow/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 525,
+						"y": 226,
+						"w": 470,
+						"h": 608
+					},
+					"frame": {
+						"x": 1,
+						"y": 343,
+						"w": 470,
+						"h": 608
+					}
+				},
+				{
+					"filename": "snow/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 510,
+						"y": 239,
+						"w": 500,
+						"h": 582
+					},
+					"frame": {
+						"x": 473,
+						"y": 343,
+						"w": 500,
+						"h": 582
+					}
+				},
+				{
+					"filename": "snow/door1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 703,
+						"y": 426,
+						"w": 114,
+						"h": 208
+					},
+					"frame": {
+						"x": 795,
+						"y": 1,
+						"w": 114,
+						"h": 208
+					}
+				},
+				{
+					"filename": "snow/door2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 704,
+						"y": 426,
+						"w": 112,
+						"h": 211
+					},
+					"frame": {
+						"x": 911,
+						"y": 1,
+						"w": 112,
+						"h": 211
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e010e99a621e853abd3ec2adf6451d3b:8f4d1e38899a04a58c2adb1d2f11c60e:5aa589cadd63359dbde4fd5bcf31fcb4$"
+	}
+}

@@ -1,0 +1,5785 @@
+{
+	"textures": [
+		{
+			"image": "dojoext@4x-0.png?v=1.7.29-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2024,
+				"h": 2039
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dojoext/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1588,
+						"h": 1077
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1588,
+						"h": 1070
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1588,
+						"h": 1070
+					}
+				},
+				{
+					"filename": "dojoext/fog",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1551,
+						"h": 650
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 1551,
+						"h": 540
+					},
+					"frame": {
+						"x": 1,
+						"y": 1073,
+						"w": 1551,
+						"h": 540
+					}
+				},
+				{
+					"filename": "dojoext/rightmonument",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 432,
+						"h": 617
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 432,
+						"h": 617
+					},
+					"frame": {
+						"x": 1591,
+						"y": 1,
+						"w": 432,
+						"h": 617
+					}
+				},
+				{
+					"filename": "dojoext/floor1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 980,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 980,
+						"h": 361
+					},
+					"frame": {
+						"x": 1,
+						"y": 1615,
+						"w": 980,
+						"h": 361
+					}
+				},
+				{
+					"filename": "dojoext/mountain2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 466,
+						"h": 365
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 466,
+						"h": 365
+					},
+					"frame": {
+						"x": 983,
+						"y": 1615,
+						"w": 466,
+						"h": 365
+					}
+				},
+				{
+					"filename": "dojoext/rightside",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 347,
+						"h": 435
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 435
+					},
+					"frame": {
+						"x": 1591,
+						"y": 620,
+						"w": 347,
+						"h": 435
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1940,
+						"y": 620,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1940,
+						"y": 831,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1940,
+						"y": 1042,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1451,
+						"y": 1615,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1073,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1284,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1639,
+						"y": 1057,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1639,
+						"y": 1268,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1724,
+						"y": 1057,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1724,
+						"y": 1268,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1809,
+						"y": 1057,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1809,
+						"y": 1268,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1894,
+						"y": 1253,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1451,
+						"y": 1826,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/mist0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 168,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1978,
+						"w": 168,
+						"h": 60
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1536,
+						"y": 1615,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1536,
+						"y": 1826,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/door/frame",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 24
+					},
+					"frame": {
+						"x": 171,
+						"y": 1978,
+						"w": 176,
+						"h": 24
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 115,
+						"h": 115
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1495,
+						"w": 115,
+						"h": 115
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 115,
+						"h": 115
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1495,
+						"w": 115,
+						"h": 115
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 115,
+						"h": 115
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1495,
+						"w": 115,
+						"h": 115
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 115,
+						"h": 115
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1495,
+						"w": 115,
+						"h": 115
+					}
+				},
+				{
+					"filename": "dojoext/decor2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 124
+					},
+					"frame": {
+						"x": 1671,
+						"y": 1479,
+						"w": 151,
+						"h": 124
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1621,
+						"y": 1612,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1621,
+						"y": 1823,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1706,
+						"y": 1605,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1706,
+						"y": 1816,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1791,
+						"y": 1605,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1791,
+						"y": 1816,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 29,
+						"w": 115,
+						"h": 100
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1479,
+						"w": 115,
+						"h": 100
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 29,
+						"w": 115,
+						"h": 100
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1479,
+						"w": 115,
+						"h": 100
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 29,
+						"w": 115,
+						"h": 100
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1479,
+						"w": 115,
+						"h": 100
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 29,
+						"w": 115,
+						"h": 100
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1479,
+						"w": 115,
+						"h": 100
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1876,
+						"y": 1581,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 1876,
+						"y": 1792,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/behind_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 82,
+						"h": 99
+					},
+					"frame": {
+						"x": 1941,
+						"y": 1464,
+						"w": 82,
+						"h": 99
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 103,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 171,
+						"y": 2004,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 89,
+						"w": 115,
+						"h": 40
+					},
+					"frame": {
+						"x": 349,
+						"y": 1978,
+						"w": 115,
+						"h": 40
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 89,
+						"w": 115,
+						"h": 40
+					},
+					"frame": {
+						"x": 349,
+						"y": 1978,
+						"w": 115,
+						"h": 40
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 89,
+						"w": 115,
+						"h": 40
+					},
+					"frame": {
+						"x": 349,
+						"y": 1978,
+						"w": 115,
+						"h": 40
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 89,
+						"w": 115,
+						"h": 40
+					},
+					"frame": {
+						"x": 349,
+						"y": 1978,
+						"w": 115,
+						"h": 40
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 74,
+						"w": 115,
+						"h": 55
+					},
+					"frame": {
+						"x": 466,
+						"y": 1978,
+						"w": 115,
+						"h": 55
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 74,
+						"w": 115,
+						"h": 55
+					},
+					"frame": {
+						"x": 466,
+						"y": 1978,
+						"w": 115,
+						"h": 55
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 74,
+						"w": 115,
+						"h": 55
+					},
+					"frame": {
+						"x": 466,
+						"y": 1978,
+						"w": 115,
+						"h": 55
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 74,
+						"w": 115,
+						"h": 55
+					},
+					"frame": {
+						"x": 466,
+						"y": 1978,
+						"w": 115,
+						"h": 55
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 104,
+						"w": 115,
+						"h": 25
+					},
+					"frame": {
+						"x": 583,
+						"y": 1978,
+						"w": 115,
+						"h": 25
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 104,
+						"w": 115,
+						"h": 25
+					},
+					"frame": {
+						"x": 583,
+						"y": 1978,
+						"w": 115,
+						"h": 25
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 104,
+						"w": 115,
+						"h": 25
+					},
+					"frame": {
+						"x": 583,
+						"y": 1978,
+						"w": 115,
+						"h": 25
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 104,
+						"w": 115,
+						"h": 25
+					},
+					"frame": {
+						"x": 583,
+						"y": 1978,
+						"w": 115,
+						"h": 25
+					}
+				},
+				{
+					"filename": "dojoext/note_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 61,
+						"h": 46
+					},
+					"frame": {
+						"x": 1961,
+						"y": 1565,
+						"w": 61,
+						"h": 46
+					}
+				}
+			]
+		},
+		{
+			"image": "dojoext@4x-1.png?v=1.7.29-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1023,
+				"h": 2026
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dojoext/dojo_building",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 770,
+						"h": 655
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 770,
+						"h": 655
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 770,
+						"h": 655
+					}
+				},
+				{
+					"filename": "dojoext/trees2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 347,
+						"h": 435
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 435
+					},
+					"frame": {
+						"x": 1,
+						"y": 658,
+						"w": 347,
+						"h": 435
+					}
+				},
+				{
+					"filename": "dojoext/mountain",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 362,
+						"h": 352
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 360,
+						"h": 352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1095,
+						"w": 360,
+						"h": 352
+					}
+				},
+				{
+					"filename": "dojoext/smalldojo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 412,
+						"h": 238
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 412,
+						"h": 238
+					},
+					"frame": {
+						"x": 350,
+						"y": 658,
+						"w": 412,
+						"h": 238
+					}
+				},
+				{
+					"filename": "dojoext/puffles",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 891,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 891,
+						"h": 287
+					},
+					"frame": {
+						"x": 1,
+						"y": 1449,
+						"w": 891,
+						"h": 287
+					}
+				},
+				{
+					"filename": "dojoext/statues",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 891,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 891,
+						"h": 287
+					},
+					"frame": {
+						"x": 1,
+						"y": 1738,
+						"w": 891,
+						"h": 287
+					}
+				},
+				{
+					"filename": "dojoext/leftside",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 406,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 406,
+						"h": 239
+					},
+					"frame": {
+						"x": 363,
+						"y": 898,
+						"w": 406,
+						"h": 239
+					}
+				},
+				{
+					"filename": "dojoext/decor1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 258,
+						"h": 217
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 258,
+						"h": 217
+					},
+					"frame": {
+						"x": 764,
+						"y": 658,
+						"w": 258,
+						"h": 217
+					}
+				},
+				{
+					"filename": "dojoext/trees1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 406,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 406,
+						"h": 239
+					},
+					"frame": {
+						"x": 363,
+						"y": 1139,
+						"w": 406,
+						"h": 239
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 771,
+						"y": 877,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 771,
+						"y": 1088,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/door/1_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 23,
+						"w": 168,
+						"h": 146
+					},
+					"frame": {
+						"x": 771,
+						"y": 1299,
+						"w": 168,
+						"h": 146
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 856,
+						"y": 877,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 856,
+						"y": 1088,
+						"w": 115,
+						"h": 129
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 856,
+						"y": 1088,
+						"w": 115,
+						"h": 129
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 856,
+						"y": 1088,
+						"w": 115,
+						"h": 129
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 856,
+						"y": 1088,
+						"w": 115,
+						"h": 129
+					}
+				},
+				{
+					"filename": "dojoext/lamps",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 75
+					},
+					"frame": {
+						"x": 856,
+						"y": 1219,
+						"w": 135,
+						"h": 75
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/behind_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 64,
+						"h": 99
+					},
+					"frame": {
+						"x": 941,
+						"y": 877,
+						"w": 64,
+						"h": 99
+					}
+				},
+				{
+					"filename": "dojoext/window1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 59
+					},
+					"frame": {
+						"x": 941,
+						"y": 978,
+						"w": 59,
+						"h": 59
+					}
+				},
+				{
+					"filename": "dojoext/note_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 48
+					},
+					"frame": {
+						"x": 363,
+						"y": 1380,
+						"w": 64,
+						"h": 48
+					}
+				},
+				{
+					"filename": "dojoext/note_0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 48
+					},
+					"frame": {
+						"x": 363,
+						"y": 1380,
+						"w": 64,
+						"h": 48
+					}
+				},
+				{
+					"filename": "dojoext/note_0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 48
+					},
+					"frame": {
+						"x": 429,
+						"y": 1380,
+						"w": 64,
+						"h": 48
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 894,
+						"y": 1447,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 894,
+						"y": 1658,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 894,
+						"y": 1869,
+						"w": 115,
+						"h": 129
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 894,
+						"y": 1869,
+						"w": 115,
+						"h": 129
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 894,
+						"y": 1869,
+						"w": 115,
+						"h": 129
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 894,
+						"y": 1869,
+						"w": 115,
+						"h": 129
+					}
+				},
+				{
+					"filename": "dojoext/water/water_0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 209
+					},
+					"frame": {
+						"x": 773,
+						"y": 1,
+						"w": 83,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dojoext/door/1_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 168,
+						"h": 163
+					},
+					"frame": {
+						"x": 773,
+						"y": 212,
+						"w": 168,
+						"h": 163
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 115,
+						"h": 128
+					},
+					"frame": {
+						"x": 858,
+						"y": 1,
+						"w": 115,
+						"h": 128
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 115,
+						"h": 128
+					},
+					"frame": {
+						"x": 858,
+						"y": 1,
+						"w": 115,
+						"h": 128
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 115,
+						"h": 128
+					},
+					"frame": {
+						"x": 858,
+						"y": 1,
+						"w": 115,
+						"h": 128
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 115,
+						"h": 128
+					},
+					"frame": {
+						"x": 858,
+						"y": 1,
+						"w": 115,
+						"h": 128
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 59,
+						"w": 115,
+						"h": 70
+					},
+					"frame": {
+						"x": 858,
+						"y": 131,
+						"w": 115,
+						"h": 70
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 59,
+						"w": 115,
+						"h": 70
+					},
+					"frame": {
+						"x": 858,
+						"y": 131,
+						"w": 115,
+						"h": 70
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 59,
+						"w": 115,
+						"h": 70
+					},
+					"frame": {
+						"x": 858,
+						"y": 131,
+						"w": 115,
+						"h": 70
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 59,
+						"w": 115,
+						"h": 70
+					},
+					"frame": {
+						"x": 858,
+						"y": 131,
+						"w": 115,
+						"h": 70
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 115,
+						"h": 127
+					},
+					"frame": {
+						"x": 773,
+						"y": 377,
+						"w": 115,
+						"h": 127
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 115,
+						"h": 127
+					},
+					"frame": {
+						"x": 773,
+						"y": 377,
+						"w": 115,
+						"h": 127
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 115,
+						"h": 127
+					},
+					"frame": {
+						"x": 773,
+						"y": 377,
+						"w": 115,
+						"h": 127
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 115,
+						"h": 127
+					},
+					"frame": {
+						"x": 773,
+						"y": 377,
+						"w": 115,
+						"h": 127
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 44,
+						"w": 115,
+						"h": 85
+					},
+					"frame": {
+						"x": 773,
+						"y": 506,
+						"w": 115,
+						"h": 85
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/1_0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 44,
+						"w": 115,
+						"h": 85
+					},
+					"frame": {
+						"x": 773,
+						"y": 506,
+						"w": 115,
+						"h": 85
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 44,
+						"w": 115,
+						"h": 85
+					},
+					"frame": {
+						"x": 773,
+						"y": 506,
+						"w": 115,
+						"h": 85
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/2_0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 44,
+						"w": 115,
+						"h": 85
+					},
+					"frame": {
+						"x": 773,
+						"y": 506,
+						"w": 115,
+						"h": 85
+					}
+				},
+				{
+					"filename": "dojoext/smalldoor/frame",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 98,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 106
+					},
+					"frame": {
+						"x": 890,
+						"y": 377,
+						"w": 98,
+						"h": 106
+					}
+				},
+				{
+					"filename": "dojoext/tree1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 98
+					},
+					"frame": {
+						"x": 890,
+						"y": 485,
+						"w": 110,
+						"h": 98
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0527a33a75cfb517e279bf3ce3dec641:b28362dc99b3023bdbab77cbc11ceb3c:62be4548e69cfe96f75e090f213e83a9$"
+	}
+}

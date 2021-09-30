@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "gym@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1353,
+				"h": 937
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "gym/walls",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1289,
+						"h": 675
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1289,
+						"h": 675
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1289,
+						"h": 675
+					}
+				},
+				{
+					"filename": "gym/floor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1235,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1235,
+						"h": 258
+					},
+					"frame": {
+						"x": 1,
+						"y": 678,
+						"w": 1235,
+						"h": 258
+					}
+				},
+				{
+					"filename": "gym/door0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 210
+					},
+					"frame": {
+						"x": 1238,
+						"y": 678,
+						"w": 60,
+						"h": 210
+					}
+				},
+				{
+					"filename": "gym/door0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 210
+					},
+					"frame": {
+						"x": 1292,
+						"y": 1,
+						"w": 60,
+						"h": 210
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:40197b65c70ab21a3a0a5d649d44efa0:b9883d3a259e5ac9d006d81edbd9684e:b9b852b1177581fe506efd82077336ec$"
+	}
+}

@@ -1,0 +1,829 @@
+{
+	"textures": [
+		{
+			"image": "party8@4x-0.png?v=1.5.36-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2042,
+				"h": 2018
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "party8/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "party8/arrow2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1042,
+						"y": 89,
+						"w": 489,
+						"h": 332
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 489,
+						"h": 332
+					}
+				},
+				{
+					"filename": "party8/coffee/coffee_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 355
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 2025,
+						"y": 1,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "party8/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "party8/plant3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1132,
+						"y": 823,
+						"w": 83,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 1939,
+						"w": 83,
+						"h": 78
+					}
+				},
+				{
+					"filename": "party8/plant9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 920,
+						"y": 270,
+						"w": 83,
+						"h": 78
+					},
+					"frame": {
+						"x": 86,
+						"y": 1939,
+						"w": 83,
+						"h": 78
+					}
+				},
+				{
+					"filename": "party8/wood3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 791,
+						"y": 369,
+						"w": 42,
+						"h": 65
+					},
+					"frame": {
+						"x": 171,
+						"y": 1939,
+						"w": 42,
+						"h": 65
+					}
+				},
+				{
+					"filename": "party8/plant5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1381,
+						"y": 733,
+						"w": 68,
+						"h": 51
+					},
+					"frame": {
+						"x": 215,
+						"y": 1939,
+						"w": 68,
+						"h": 51
+					}
+				},
+				{
+					"filename": "party8/plant6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1198,
+						"y": 709,
+						"w": 68,
+						"h": 51
+					},
+					"frame": {
+						"x": 285,
+						"y": 1939,
+						"w": 68,
+						"h": 51
+					}
+				},
+				{
+					"filename": "party8/plant4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1317,
+						"y": 739,
+						"w": 67,
+						"h": 51
+					},
+					"frame": {
+						"x": 355,
+						"y": 1939,
+						"w": 67,
+						"h": 51
+					}
+				},
+				{
+					"filename": "party8/wood5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 814,
+						"y": 303,
+						"w": 42,
+						"h": 43
+					},
+					"frame": {
+						"x": 424,
+						"y": 1939,
+						"w": 42,
+						"h": 43
+					}
+				},
+				{
+					"filename": "party8/wood",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1297,
+						"y": 375,
+						"w": 41,
+						"h": 43
+					},
+					"frame": {
+						"x": 468,
+						"y": 1939,
+						"w": 41,
+						"h": 43
+					}
+				},
+				{
+					"filename": "party8/wood6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1060,
+						"y": 274,
+						"w": 41,
+						"h": 43
+					},
+					"frame": {
+						"x": 511,
+						"y": 1939,
+						"w": 41,
+						"h": 43
+					}
+				},
+				{
+					"filename": "party8/wood4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 752,
+						"y": 307,
+						"w": 42,
+						"h": 42
+					},
+					"frame": {
+						"x": 554,
+						"y": 1939,
+						"w": 42,
+						"h": 42
+					}
+				},
+				{
+					"filename": "party8/tent1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 782,
+						"y": 438,
+						"w": 347,
+						"h": 286
+					},
+					"frame": {
+						"x": 1534,
+						"y": 335,
+						"w": 347,
+						"h": 286
+					}
+				},
+				{
+					"filename": "party8/plant7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1379,
+						"y": 495,
+						"w": 152,
+						"h": 166
+					},
+					"frame": {
+						"x": 1883,
+						"y": 335,
+						"w": 152,
+						"h": 166
+					}
+				},
+				{
+					"filename": "party8/tent6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 444,
+						"y": 638,
+						"w": 148,
+						"h": 98
+					},
+					"frame": {
+						"x": 1883,
+						"y": 503,
+						"w": 148,
+						"h": 98
+					}
+				},
+				{
+					"filename": "party8/arrow1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 533,
+						"y": 690,
+						"w": 144,
+						"h": 136
+					},
+					"frame": {
+						"x": 1883,
+						"y": 603,
+						"w": 144,
+						"h": 136
+					}
+				},
+				{
+					"filename": "party8/tent8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 338,
+						"w": 340,
+						"h": 604
+					},
+					"frame": {
+						"x": 1534,
+						"y": 623,
+						"w": 340,
+						"h": 604
+					}
+				},
+				{
+					"filename": "party8/coffee/coffee_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 355
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 127,
+						"w": 141,
+						"h": 218
+					},
+					"frame": {
+						"x": 1876,
+						"y": 741,
+						"w": 141,
+						"h": 218
+					}
+				},
+				{
+					"filename": "party8/wood2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 801,
+						"y": 395,
+						"w": 136,
+						"h": 114
+					},
+					"frame": {
+						"x": 1876,
+						"y": 961,
+						"w": 136,
+						"h": 114
+					}
+				},
+				{
+					"filename": "party8/tent4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 295,
+						"y": 648,
+						"w": 126,
+						"h": 216
+					},
+					"frame": {
+						"x": 1876,
+						"y": 1077,
+						"w": 126,
+						"h": 216
+					}
+				},
+				{
+					"filename": "party8/1_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 323,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 61,
+						"w": 319,
+						"h": 204
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1229,
+						"w": 319,
+						"h": 204
+					}
+				},
+				{
+					"filename": "party8/tent5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 374,
+						"y": 686,
+						"w": 111,
+						"h": 133
+					},
+					"frame": {
+						"x": 1855,
+						"y": 1295,
+						"w": 111,
+						"h": 133
+					}
+				},
+				{
+					"filename": "party8/plant2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1210,
+						"y": 732,
+						"w": 267,
+						"h": 225
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1435,
+						"w": 267,
+						"h": 225
+					}
+				},
+				{
+					"filename": "party8/rock1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 437,
+						"y": 215,
+						"w": 238,
+						"h": 317
+					},
+					"frame": {
+						"x": 1803,
+						"y": 1435,
+						"w": 238,
+						"h": 317
+					}
+				},
+				{
+					"filename": "party8/tent2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 751,
+						"y": 6,
+						"w": 252,
+						"h": 345
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1662,
+						"w": 252,
+						"h": 345
+					}
+				},
+				{
+					"filename": "party8/tent3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 377,
+						"y": 629,
+						"w": 244,
+						"h": 222
+					},
+					"frame": {
+						"x": 1788,
+						"y": 1754,
+						"w": 244,
+						"h": 222
+					}
+				}
+			]
+		},
+		{
+			"image": "party8@4x-1.png?v=1.5.36-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 798,
+				"h": 458
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "party8/plant1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 841,
+						"y": 756,
+						"w": 318,
+						"h": 211
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 318,
+						"h": 211
+					}
+				},
+				{
+					"filename": "party8/1_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 323,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 289,
+						"h": 205
+					},
+					"frame": {
+						"x": 1,
+						"y": 214,
+						"w": 289,
+						"h": 205
+					}
+				},
+				{
+					"filename": "party8/tent7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 504,
+						"w": 266,
+						"h": 179
+					},
+					"frame": {
+						"x": 321,
+						"y": 1,
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "party8/plant8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 723,
+						"y": 355,
+						"w": 208,
+						"h": 146
+					},
+					"frame": {
+						"x": 589,
+						"y": 1,
+						"w": 208,
+						"h": 146
+					}
+				},
+				{
+					"filename": "party8/nest/nest_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 290,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 290,
+						"h": 141
+					},
+					"frame": {
+						"x": 321,
+						"y": 182,
+						"w": 290,
+						"h": 141
+					}
+				},
+				{
+					"filename": "party8/nest/nest_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 275,
+						"h": 132
+					},
+					"frame": {
+						"x": 292,
+						"y": 325,
+						"w": 275,
+						"h": 132
+					}
+				},
+				{
+					"filename": "party8/catalog/catalog_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 189,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 182,
+						"h": 127
+					},
+					"frame": {
+						"x": 613,
+						"y": 149,
+						"w": 182,
+						"h": 127
+					}
+				},
+				{
+					"filename": "party8/catalog/catalog_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 189,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 182,
+						"h": 127
+					},
+					"frame": {
+						"x": 613,
+						"y": 149,
+						"w": 182,
+						"h": 127
+					}
+				},
+				{
+					"filename": "party8/catalog/catalog_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 189,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 182,
+						"h": 127
+					},
+					"frame": {
+						"x": 613,
+						"y": 149,
+						"w": 182,
+						"h": 127
+					}
+				},
+				{
+					"filename": "party8/catalog/catalog_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 189,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 189,
+						"h": 132
+					},
+					"frame": {
+						"x": 569,
+						"y": 325,
+						"w": 189,
+						"h": 132
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:64f02d5886e01f26cb0dabfae8ed82dd:b151f500c395b900a80aebc331cf64e8:ddeffde63bfb4815c2933a31b124cc22$"
+	}
+}

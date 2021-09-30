@@ -1,0 +1,47 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/client/interface/igloo_tools/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "url": "assets/client/interface/igloo_tools/prefab/FurnitureScroller.js",
+                "type": "script",
+                "key": "FurnitureScroller"
+            },
+            {
+                "url": "assets/client/interface/igloo_tools/prefab/IglooMusicButton.js",
+                "type": "script",
+                "key": "IglooMusicButton"
+            },
+            {
+                "url": "assets/client/interface/igloo_tools/prefab/IglooPreview.js",
+                "type": "script",
+                "key": "IglooPreview"
+            },
+            {
+                "url": "assets/client/interface/igloo_tools/IglooTools.js",
+                "type": "script",
+                "key": "IglooTools"
+            },
+            {
+                "url": "assets/client/interface/igloo_tools/IglooToolsListeners.js",
+                "type": "script",
+                "key": "IglooToolsListeners"
+            },
+            {
+                "url": "assets/client/interface/igloo_tools/prefab/OtherIglooContainer.js",
+                "type": "script",
+                "key": "OtherIglooContainer"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "dojoigloo@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1382,
+				"h": 876
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dojoigloo/dojo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 0,
+						"w": 1277,
+						"h": 874
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1277,
+						"h": 874
+					}
+				},
+				{
+					"filename": "dojoigloo/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 2,
+						"w": 80,
+						"h": 176
+					},
+					"frame": {
+						"x": 1280,
+						"y": 1,
+						"w": 80,
+						"h": 176
+					}
+				},
+				{
+					"filename": "dojoigloo/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 101,
+						"h": 159
+					},
+					"frame": {
+						"x": 1280,
+						"y": 179,
+						"w": 101,
+						"h": 159
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3b91a9f8b5ebc49a09ef55ac7454ca04:86b4083c7df51b1d78c8a45e99000c01:ff40576fae8b0e0dea2bb1f2d3063b72$"
+	}
+}

@@ -1,0 +1,57 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/client/interface/chat_dock/ChatDock.js",
+                "type": "script",
+                "key": "ChatDock"
+            },
+            {
+                "url": "assets/client/interface/chat_log/ChatLog.js",
+                "type": "script",
+                "key": "ChatLog"
+            },
+            {
+                "url": "assets/client/interface/chat_log/prefabs/ChatLogItem.js",
+                "type": "script",
+                "key": "ChatLogItem"
+            },
+            {
+                "url": "assets/client/interface/room_tools/RoomTools.js",
+                "type": "script",
+                "key": "RoomTools"
+            },
+            {
+                "url": [
+                    "assets/client/system/stamps/data/SBStampItem.js",
+                    "assets/client/system/stamps/data/SBAwardItem.js",
+                    "assets/client/system/stamps/data/SBBookCover.js",
+                    "assets/client/system/stamps/data/SBCategory.js",
+                    "assets/client/system/stamps/data/SBCoverItem.js",
+                    "assets/client/system/stamps/data/SBPinItem.js",
+                    "assets/client/system/stamps/data/SBPolaroidItem.js",
+                    "assets/client/system/stamps/StampDefinitions.js",
+                    "assets/client/system/stamps/StampManager.js"
+                ],
+                "type": "scripts",
+                "key": "SBStampItem"
+            },
+            {
+                "url": "assets/client/interface/stamp_notify/StampNotify.js",
+                "type": "script",
+                "key": "StampNotify"
+            },
+            {
+                "url": "assets/client/interface/elements/UIDoor.js",
+                "type": "script",
+                "key": "UIDoor"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

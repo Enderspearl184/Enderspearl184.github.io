@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "34434@3x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 159,
+				"h": 142
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "blackcurls",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 525,
+						"h": 525
+					},
+					"spriteSourceSize": {
+						"x": 183,
+						"y": 178,
+						"w": 157,
+						"h": 140
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 157,
+						"h": 140
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:509a088838238bd8e3d4594810d0be06:231fa45b7394aa9a488ade9ca4f91cc2:90da152fafe14f8f75d4b458053b0a18$"
+	}
+}

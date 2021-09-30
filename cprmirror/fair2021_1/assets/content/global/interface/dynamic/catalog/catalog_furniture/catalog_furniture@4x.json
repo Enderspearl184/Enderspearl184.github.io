@@ -1,0 +1,2397 @@
+{
+	"textures": [
+		{
+			"image": "catalog_furniture@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1996,
+				"h": 1971
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalog_furniture/book/pages/10/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 46,
+						"w": 1190,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 822,
+						"w": 1190,
+						"h": 816
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/front_fade",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 659,
+						"h": 824
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 659,
+						"h": 787
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1,
+						"w": 659,
+						"h": 787
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/front/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 481,
+						"y": 34,
+						"w": 605,
+						"h": 819
+					},
+					"frame": {
+						"x": 1193,
+						"y": 790,
+						"w": 605,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/page_shadow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 779
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 779
+					},
+					"frame": {
+						"x": 1852,
+						"y": 1,
+						"w": 86,
+						"h": 779
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 1,
+						"y": 1640,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 436,
+						"y": 1640,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/description_box1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 585,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 585,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 1891,
+						"w": 585,
+						"h": 64
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 871,
+						"y": 1640,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/close_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 109,
+						"h": 222
+					},
+					"frame": {
+						"x": 1306,
+						"y": 1611,
+						"w": 109,
+						"h": 222
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/close_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 109,
+						"h": 222
+					},
+					"frame": {
+						"x": 1417,
+						"y": 1611,
+						"w": 109,
+						"h": 222
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/close_left0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 222
+					},
+					"frame": {
+						"x": 1528,
+						"y": 1611,
+						"w": 109,
+						"h": 222
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/close_left0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 222
+					},
+					"frame": {
+						"x": 1639,
+						"y": 1611,
+						"w": 109,
+						"h": 222
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/left_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 221
+					},
+					"frame": {
+						"x": 1800,
+						"y": 790,
+						"w": 109,
+						"h": 221
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/left_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 221
+					},
+					"frame": {
+						"x": 1800,
+						"y": 790,
+						"w": 109,
+						"h": 221
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/right_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 109,
+						"h": 221
+					},
+					"frame": {
+						"x": 1800,
+						"y": 1013,
+						"w": 109,
+						"h": 221
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/right_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 109,
+						"h": 221
+					},
+					"frame": {
+						"x": 1800,
+						"y": 1013,
+						"w": 109,
+						"h": 221
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/curtain_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 153
+					},
+					"frame": {
+						"x": 1800,
+						"y": 1236,
+						"w": 164,
+						"h": 153
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/curtain_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 164,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 164,
+						"h": 141
+					},
+					"frame": {
+						"x": 1800,
+						"y": 1391,
+						"w": 164,
+						"h": 141
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/pillow_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 104
+					},
+					"frame": {
+						"x": 1800,
+						"y": 1534,
+						"w": 176,
+						"h": 104
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/couch_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 124
+					},
+					"frame": {
+						"x": 1750,
+						"y": 1640,
+						"w": 157,
+						"h": 124
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/fade_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 86
+					},
+					"frame": {
+						"x": 1909,
+						"y": 1640,
+						"w": 86,
+						"h": 86
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/pillow_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 164,
+						"h": 93
+					},
+					"frame": {
+						"x": 1750,
+						"y": 1766,
+						"w": 164,
+						"h": 93
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/buy_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 160,
+						"h": 90
+					},
+					"frame": {
+						"x": 1306,
+						"y": 1835,
+						"w": 160,
+						"h": 90
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/buy_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 160,
+						"h": 90
+					},
+					"frame": {
+						"x": 1468,
+						"y": 1835,
+						"w": 160,
+						"h": 90
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/couch_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 157,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 8,
+						"w": 143,
+						"h": 109
+					},
+					"frame": {
+						"x": 1630,
+						"y": 1861,
+						"w": 143,
+						"h": 109
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/buy_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 160,
+						"h": 90
+					},
+					"frame": {
+						"x": 1775,
+						"y": 1861,
+						"w": 160,
+						"h": 90
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/close_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 0,
+						"w": 47,
+						"h": 140
+					},
+					"frame": {
+						"x": 1940,
+						"y": 1,
+						"w": 47,
+						"h": 140
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/close_left0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 140
+					},
+					"frame": {
+						"x": 1940,
+						"y": 143,
+						"w": 47,
+						"h": 140
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/right_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 81,
+						"w": 47,
+						"h": 139
+					},
+					"frame": {
+						"x": 1940,
+						"y": 285,
+						"w": 47,
+						"h": 139
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/left_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 81,
+						"w": 46,
+						"h": 139
+					},
+					"frame": {
+						"x": 1940,
+						"y": 426,
+						"w": 46,
+						"h": 139
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/buy2_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 46
+					},
+					"frame": {
+						"x": 588,
+						"y": 1891,
+						"w": 136,
+						"h": 46
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/buy2_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 46
+					},
+					"frame": {
+						"x": 726,
+						"y": 1891,
+						"w": 136,
+						"h": 46
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/buy2_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 46
+					},
+					"frame": {
+						"x": 864,
+						"y": 1891,
+						"w": 136,
+						"h": 46
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/secret_close_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 136,
+						"h": 37
+					},
+					"frame": {
+						"x": 1002,
+						"y": 1891,
+						"w": 136,
+						"h": 37
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/secret_close_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 136,
+						"h": 37
+					},
+					"frame": {
+						"x": 1140,
+						"y": 1891,
+						"w": 136,
+						"h": 37
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/secret_close_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 136,
+						"h": 37
+					},
+					"frame": {
+						"x": 1140,
+						"y": 1891,
+						"w": 136,
+						"h": 37
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/fade_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 1916,
+						"y": 1728,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/design4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 76
+					},
+					"frame": {
+						"x": 1911,
+						"y": 782,
+						"w": 73,
+						"h": 76
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/design1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 74
+					},
+					"frame": {
+						"x": 1911,
+						"y": 860,
+						"w": 72,
+						"h": 74
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/design3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 73,
+						"h": 71
+					},
+					"frame": {
+						"x": 1911,
+						"y": 936,
+						"w": 73,
+						"h": 71
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/outlinebox",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 72,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 1911,
+						"y": 1009,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/button/design2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 68
+					},
+					"frame": {
+						"x": 1911,
+						"y": 1082,
+						"w": 61,
+						"h": 68
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/button/smallcoin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 31
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 31
+					},
+					"frame": {
+						"x": 588,
+						"y": 1939,
+						"w": 23,
+						"h": 31
+					}
+				}
+			]
+		},
+		{
+			"image": "catalog_furniture@4x-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1879,
+				"h": 1893
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalog_furniture/book/pages/11/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/mask_page",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 687,
+						"h": 473
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 687,
+						"h": 473
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1,
+						"w": 687,
+						"h": 473
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/front_cover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 597,
+						"h": 811
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 597,
+						"h": 811
+					},
+					"frame": {
+						"x": 1191,
+						"y": 476,
+						"w": 597,
+						"h": 811
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/12/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 822,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 1,
+						"y": 1643,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 436,
+						"y": 1643,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/secret_custom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 678,
+						"h": 539
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 0,
+						"w": 585,
+						"h": 539
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1289,
+						"w": 585,
+						"h": 539
+					}
+				}
+			]
+		},
+		{
+			"image": "catalog_furniture@4x-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1988,
+				"h": 1931
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalog_furniture/book/pages/13/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/14/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 822,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/mask_front",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 344,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 344,
+						"h": 476
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1,
+						"w": 344,
+						"h": 476
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1191,
+						"y": 479,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1191,
+						"y": 796,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1113,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1430,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 1,
+						"y": 1643,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 436,
+						"y": 1643,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 871,
+						"y": 1681,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 1306,
+						"y": 1681,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1554,
+						"y": 318,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1554,
+						"y": 635,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1554,
+						"y": 952,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1626,
+						"y": 1269,
+						"w": 361,
+						"h": 315
+					}
+				}
+			]
+		},
+		{
+			"image": "catalog_furniture@4x-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1988,
+				"h": 1959
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalog_furniture/book/pages/15/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/2/seven",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 822,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1,
+						"y": 1643,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 364,
+						"y": 1643,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 727,
+						"y": 1643,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1090,
+						"y": 1643,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1626,
+						"y": 1,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 1191,
+						"y": 252,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 1626,
+						"y": 318,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 1191,
+						"y": 503,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1191,
+						"y": 754,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1032,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1310,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/item_hint",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 336,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 336,
+						"h": 261
+					},
+					"frame": {
+						"x": 1626,
+						"y": 635,
+						"w": 336,
+						"h": 261
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1555,
+						"y": 898,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1555,
+						"y": 1176,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1555,
+						"y": 1454,
+						"w": 362,
+						"h": 276
+					}
+				}
+			]
+		},
+		{
+			"image": "catalog_furniture@4x-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1554,
+				"h": 1920
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalog_furniture/book/pages/3/eight",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/4/one",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 822,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1,
+						"y": 1643,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 365,
+						"y": 1643,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 729,
+						"y": 1643,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1093,
+						"y": 1643,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1191,
+						"y": 279,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1191,
+						"y": 557,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1191,
+						"y": 835,
+						"w": 362,
+						"h": 276
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 26,
+						"w": 362,
+						"h": 276
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1113,
+						"w": 362,
+						"h": 276
+					}
+				}
+			]
+		},
+		{
+			"image": "catalog_furniture@4x-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1190,
+				"h": 1642
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalog_furniture/book/pages/5/three",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/6/four",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 822,
+						"w": 1188,
+						"h": 819
+					}
+				}
+			]
+		},
+		{
+			"image": "catalog_furniture@4x-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1190,
+				"h": 1642
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalog_furniture/book/pages/7/five",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/8/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 822,
+						"w": 1188,
+						"h": 819
+					}
+				}
+			]
+		},
+		{
+			"image": "catalog_furniture@4x-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1790,
+				"h": 2044
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalog_furniture/book/pages/9/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1188,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1188,
+						"h": 819
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/16/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 36,
+						"w": 1186,
+						"h": 817
+					},
+					"frame": {
+						"x": 1,
+						"y": 822,
+						"w": 1186,
+						"h": 817
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/back/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 34,
+						"w": 598,
+						"h": 811
+					},
+					"frame": {
+						"x": 1191,
+						"y": 1,
+						"w": 598,
+						"h": 811
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/back_cover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 597,
+						"h": 811
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 597,
+						"h": 811
+					},
+					"frame": {
+						"x": 1189,
+						"y": 822,
+						"w": 597,
+						"h": 811
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 1,
+						"y": 1641,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 43,
+						"w": 433,
+						"h": 249
+					},
+					"frame": {
+						"x": 436,
+						"y": 1641,
+						"w": 433,
+						"h": 249
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/pages/1/custom_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 12,
+						"w": 361,
+						"h": 315
+					},
+					"frame": {
+						"x": 871,
+						"y": 1641,
+						"w": 361,
+						"h": 315
+					}
+				},
+				{
+					"filename": "catalog_furniture/book/secret",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 730,
+						"h": 566
+					},
+					"spriteSourceSize": {
+						"x": 218,
+						"y": 85,
+						"w": 441,
+						"h": 408
+					},
+					"frame": {
+						"x": 1234,
+						"y": 1635,
+						"w": 441,
+						"h": 408
+					}
+				}
+			]
+		},
+		{
+			"image": "catalog_furniture@4x-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1179,
+				"h": 813
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalog_furniture/book/page",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1177,
+						"h": 811
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1177,
+						"h": 811
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1177,
+						"h": 811
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5416824969696b415ddd256e3e821200:b1df58c9328193ecf1526dda2407a54e:691661736e9dc7b78d4b71dc69ad0442$"
+	}
+}

@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "eeirecastle@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1791,
+				"h": 1938
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "eeirecastle/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "eeirecastle/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "eeirecastle/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 367
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 256,
+						"h": 358
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 256,
+						"h": 358
+					}
+				},
+				{
+					"filename": "eeirecastle/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 367
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 9,
+						"w": 231,
+						"h": 312
+					},
+					"frame": {
+						"x": 1534,
+						"y": 361,
+						"w": 231,
+						"h": 312
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0c0ab0b6a913f1584b9eeac65497b5db:83737e6365c81d0d0cccb95b40a6357e:b5388a8807d6a3b408a01c588d2439d6$"
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "magicalhideout@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1533,
+				"h": 1795
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "magicalhideout/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "magicalhideout/foreground",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 824
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 1531,
+						"h": 824
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:38e68e2577fd79f4b12cf217071d14d1:6dbc8841fbdbd904f6aac493e2351df8:e729232337d55f4d4551be62d03f7ede$"
+	}
+}

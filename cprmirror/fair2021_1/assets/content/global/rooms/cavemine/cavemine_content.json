@@ -1,0 +1,53 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/content/global/rooms/cavemine/cavemine_noise.mp3"
+                ],
+                "type": "audio",
+                "key": "cavemine_noise"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/cavemine/cavemine_note.mp3"
+                ],
+                "type": "audio",
+                "key": "cavemine_note"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/cavemine/cavemine_off.mp3"
+                ],
+                "type": "audio",
+                "key": "cavemine_off"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/cavemine/cavemine_snow.mp3"
+                ],
+                "type": "audio",
+                "key": "cavemine_snow"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/cavemine/cavemine_static.mp3"
+                ],
+                "type": "audio",
+                "key": "cavemine_static"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/rooms/cavemine/cavemine@4x.json?v=1.7.29-beta",
+                "path": "assets/content/global/rooms/cavemine/",
+                "key": "cavemine@4x"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

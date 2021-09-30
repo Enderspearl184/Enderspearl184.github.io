@@ -1,0 +1,48 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/client/interface/stampbook/prefab/controls/SBAbstractControl.js",
+                    "assets/client/interface/stampbook/prefab/controls/SBDescriptionBox.js",
+                    "assets/client/interface/stampbook/prefab/controls/SBList.js",
+                    "assets/client/interface/stampbook/prefab/views/SBBaseView.js",
+                    "assets/client/interface/stampbook/prefab/views/SBInsidePagesView.js",
+                    "assets/client/interface/stampbook/prefab/controls/BaseItemRenderer.js",
+                    "assets/client/interface/stampbook/prefab/cover/CoverClasp.js",
+                    "assets/client/interface/stampbook/prefab/cover/CoverColor.js",
+                    "assets/client/interface/stampbook/prefab/controls/CoverList.js",
+                    "assets/client/interface/stampbook/prefab/controls/CoverListRenderer.js",
+                    "assets/client/interface/stampbook/prefab/cover/CoverPattern.js",
+                    "assets/client/interface/stampbook/prefab/views/SBCategoryPage.js",
+                    "assets/client/interface/stampbook/prefab/controls/SBContentList.js",
+                    "assets/client/interface/stampbook/prefab/views/SBInsidePagesBaseView.js",
+                    "assets/client/interface/stampbook/prefab/views/SBInsidePagesStampsView.js",
+                    "assets/client/interface/stampbook/prefab/views/SBInsidePagesContentView.js",
+                    "assets/client/interface/stampbook/prefab/views/SBInsidePagesSubContentView.js",
+                    "assets/client/interface/stampbook/prefab/controls/SBListButton.js",
+                    "assets/client/interface/stampbook/util/SBNavigation.js",
+                    "assets/client/interface/stampbook/util/StampLookUp.js",
+                    "assets/client/interface/stampbook/prefab/views/SBCoverView.js",
+                    "assets/client/interface/stampbook/prefab/controls/SBRecentlyEarnedList.js",
+                    "assets/client/interface/stampbook/prefab/controls/SBRecentlyEarnedRenderer.js",
+                    "assets/client/interface/stampbook/prefab/views/SBRecentlyEarnedView.js",
+                    "assets/client/interface/stampbook/prefab/controls/SBScrollBar.js"
+                ],
+                "type": "scripts",
+                "key": "BaseItemRenderer"
+            },
+            {
+                "url": "assets/client/interface/stampbook/Stampbook.js",
+                "type": "script",
+                "key": "Stampbook"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

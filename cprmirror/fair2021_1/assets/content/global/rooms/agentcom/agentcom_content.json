@@ -1,0 +1,23 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/rooms/agentcom/agentcom@4x.json?v=1.7.29-beta",
+                "path": "assets/content/global/rooms/agentcom/",
+                "key": "agentcom@4x"
+            },
+            {
+                "url": "assets/content/global/rooms/agentcom/epf_play_missions.png?v=1.7.29-beta",
+                "type": "image",
+                "key": "epf_play_missions"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

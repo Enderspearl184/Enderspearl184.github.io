@@ -1,0 +1,33 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/games/bell/bell.json",
+                "path": "assets/content/global/games/bell",
+                "key": "bell"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/bell/audio/bell_boing.mp3"
+                ],
+                "type": "audio",
+                "key": "bell_boing"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/bell/audio/bell_ding.mp3"
+                ],
+                "type": "audio",
+                "key": "bell_ding"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "fish@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1533,
+				"h": 969
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fish/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b0945ad56299471e5170c2cec256d5b9:6916b0d7646e64193cae4c9df418cc1e:8f6b89c2c0f8908faffa33c4c3f9479b$"
+	}
+}

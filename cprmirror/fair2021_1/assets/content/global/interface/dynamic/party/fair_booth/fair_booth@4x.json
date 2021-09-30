@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "fair_booth@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1664,
+				"h": 1008
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fairbooth/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1617,
+						"h": 1006
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1610,
+						"h": 1006
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1610,
+						"h": 1006
+					}
+				},
+				{
+					"filename": "fairbooth/close_button",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 1613,
+						"y": 1,
+						"w": 50,
+						"h": 50
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9513e2efa68f21737731347d23a8efb1:ddb611c9a817426ca37cd23c61106b2b:9fcdecf9275f375aca82bd378b7ed50a$"
+	}
+}

@@ -1,0 +1,118 @@
+{
+    "anims": [
+        {
+            "key": "boiler_open",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/cab/cab_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/cab/cab_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/cab/cab_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/cab/cab_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/cab/cab_0005",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boiler_close",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/cab/cab_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/cab/cab_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/cab/cab_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/cab/cab_0009",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boiler_smoke",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/smoke/smoke_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/smoke/smoke_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/smoke/smoke_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/smoke/smoke_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/smoke/smoke_0005",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

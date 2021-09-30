@@ -1,0 +1,94 @@
+{
+	"textures": [
+		{
+			"image": "treehouse@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1533,
+				"h": 1677
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "treehouse/foreground2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 174,
+						"w": 1531,
+						"h": 712
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 712
+					}
+				},
+				{
+					"filename": "treehouse/foreground",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 1522,
+						"h": 961
+					},
+					"frame": {
+						"x": 1,
+						"y": 715,
+						"w": 1522,
+						"h": 961
+					}
+				}
+			]
+		},
+		{
+			"image": "treehouse@4x-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1441,
+				"h": 791
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "treehouse/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 178,
+						"w": 1439,
+						"h": 789
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1439,
+						"h": 789
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e23a20842b9fca9f4b1d0ddf7d4ca0c1:59454ff737a21aef76c06ff2807388d4:2cc9943b38a4282703b70a72c2d713ba$"
+	}
+}

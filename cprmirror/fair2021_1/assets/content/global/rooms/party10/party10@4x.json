@@ -1,0 +1,2152 @@
+{
+	"textures": [
+		{
+			"image": "party10@4x-0.png?v=1.5.36-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2043,
+				"h": 2047
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "party10/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "party10/foreground21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1207,
+						"y": 0,
+						"w": 324,
+						"h": 967
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 324,
+						"h": 967
+					}
+				},
+				{
+					"filename": "party10/foreground1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 624,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 624,
+						"h": 967
+					}
+				},
+				{
+					"filename": "party10/tree3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 573,
+						"w": 603,
+						"h": 248
+					},
+					"frame": {
+						"x": 627,
+						"y": 970,
+						"w": 603,
+						"h": 248
+					}
+				},
+				{
+					"filename": "party10/plant6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1265,
+						"y": 155,
+						"w": 266,
+						"h": 562
+					},
+					"frame": {
+						"x": 1232,
+						"y": 970,
+						"w": 266,
+						"h": 562
+					}
+				},
+				{
+					"filename": "party10/plant12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 729,
+						"y": 0,
+						"w": 584,
+						"h": 488
+					},
+					"frame": {
+						"x": 627,
+						"y": 1220,
+						"w": 584,
+						"h": 488
+					}
+				},
+				{
+					"filename": "party10/tent1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 314,
+						"w": 400,
+						"h": 426
+					},
+					"frame": {
+						"x": 1213,
+						"y": 1534,
+						"w": 400,
+						"h": 426
+					}
+				},
+				{
+					"filename": "party10/plant2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1120,
+						"y": 740,
+						"w": 368,
+						"h": 139
+					},
+					"frame": {
+						"x": 627,
+						"y": 1710,
+						"w": 368,
+						"h": 139
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 112,
+						"h": 273
+					},
+					"frame": {
+						"x": 997,
+						"y": 1710,
+						"w": 112,
+						"h": 273
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 112,
+						"h": 273
+					},
+					"frame": {
+						"x": 997,
+						"y": 1710,
+						"w": 112,
+						"h": 273
+					}
+				},
+				{
+					"filename": "party10/meow",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 673,
+						"w": 313,
+						"h": 168
+					},
+					"frame": {
+						"x": 627,
+						"y": 1851,
+						"w": 313,
+						"h": 168
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 96,
+						"h": 272
+					},
+					"frame": {
+						"x": 1111,
+						"y": 1710,
+						"w": 96,
+						"h": 272
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 96,
+						"h": 272
+					},
+					"frame": {
+						"x": 1111,
+						"y": 1710,
+						"w": 96,
+						"h": 272
+					}
+				},
+				{
+					"filename": "party10/rock10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 992,
+						"y": 709,
+						"w": 38,
+						"h": 25
+					},
+					"frame": {
+						"x": 942,
+						"y": 1851,
+						"w": 38,
+						"h": 25
+					}
+				},
+				{
+					"filename": "party10/rock4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 631,
+						"y": 588,
+						"w": 38,
+						"h": 25
+					},
+					"frame": {
+						"x": 942,
+						"y": 1878,
+						"w": 38,
+						"h": 25
+					}
+				},
+				{
+					"filename": "party10/rock5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 430,
+						"y": 739,
+						"w": 38,
+						"h": 25
+					},
+					"frame": {
+						"x": 942,
+						"y": 1905,
+						"w": 38,
+						"h": 25
+					}
+				},
+				{
+					"filename": "party10/rock9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 921,
+						"y": 822,
+						"w": 38,
+						"h": 25
+					},
+					"frame": {
+						"x": 942,
+						"y": 1932,
+						"w": 38,
+						"h": 25
+					}
+				},
+				{
+					"filename": "party10/rock6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 480,
+						"y": 764,
+						"w": 39,
+						"h": 23
+					},
+					"frame": {
+						"x": 942,
+						"y": 1959,
+						"w": 39,
+						"h": 23
+					}
+				},
+				{
+					"filename": "party10/rock2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 544,
+						"y": 547,
+						"w": 40,
+						"h": 22
+					},
+					"frame": {
+						"x": 942,
+						"y": 1984,
+						"w": 40,
+						"h": 22
+					}
+				},
+				{
+					"filename": "party10/plant8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1300,
+						"y": 78,
+						"w": 231,
+						"h": 380
+					},
+					"frame": {
+						"x": 1500,
+						"y": 970,
+						"w": 231,
+						"h": 380
+					}
+				},
+				{
+					"filename": "party10/leaf2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 863,
+						"y": 842,
+						"w": 368,
+						"h": 125
+					},
+					"frame": {
+						"x": 1500,
+						"y": 1352,
+						"w": 368,
+						"h": 125
+					}
+				},
+				{
+					"filename": "party10/tree4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 696,
+						"y": 620,
+						"w": 278,
+						"h": 201
+					},
+					"frame": {
+						"x": 1733,
+						"y": 970,
+						"w": 278,
+						"h": 201
+					}
+				},
+				{
+					"filename": "party10/nest/nest_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 290,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 290,
+						"h": 141
+					},
+					"frame": {
+						"x": 1733,
+						"y": 1173,
+						"w": 290,
+						"h": 141
+					}
+				},
+				{
+					"filename": "party10/rock12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1180,
+						"y": 505,
+						"w": 57,
+						"h": 33
+					},
+					"frame": {
+						"x": 1733,
+						"y": 1316,
+						"w": 57,
+						"h": 33
+					}
+				},
+				{
+					"filename": "party10/rock13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 713,
+						"y": 554,
+						"w": 57,
+						"h": 33
+					},
+					"frame": {
+						"x": 1792,
+						"y": 1316,
+						"w": 57,
+						"h": 33
+					}
+				},
+				{
+					"filename": "party10/shake1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 582,
+						"w": 57,
+						"h": 33
+					},
+					"frame": {
+						"x": 1851,
+						"y": 1316,
+						"w": 57,
+						"h": 33
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 112,
+						"h": 273
+					},
+					"frame": {
+						"x": 1615,
+						"y": 1479,
+						"w": 112,
+						"h": 273
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 112,
+						"h": 273
+					},
+					"frame": {
+						"x": 1615,
+						"y": 1479,
+						"w": 112,
+						"h": 273
+					}
+				},
+				{
+					"filename": "party10/rock8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 770,
+						"y": 795,
+						"w": 67,
+						"h": 46
+					},
+					"frame": {
+						"x": 1500,
+						"y": 1479,
+						"w": 67,
+						"h": 46
+					}
+				},
+				{
+					"filename": "party10/rock1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 484,
+						"y": 517,
+						"w": 39,
+						"h": 22
+					},
+					"frame": {
+						"x": 1569,
+						"y": 1479,
+						"w": 39,
+						"h": 22
+					}
+				},
+				{
+					"filename": "party10/rock7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 605,
+						"y": 813,
+						"w": 39,
+						"h": 22
+					},
+					"frame": {
+						"x": 1569,
+						"y": 1479,
+						"w": 39,
+						"h": 22
+					}
+				},
+				{
+					"filename": "party10/plant7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1183,
+						"y": 516,
+						"w": 311,
+						"h": 151
+					},
+					"frame": {
+						"x": 1615,
+						"y": 1754,
+						"w": 311,
+						"h": 151
+					}
+				},
+				{
+					"filename": "party10/tree5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 369,
+						"y": 573,
+						"w": 279,
+						"h": 197
+					},
+					"frame": {
+						"x": 1729,
+						"y": 1479,
+						"w": 279,
+						"h": 197
+					}
+				},
+				{
+					"filename": "party10/plant11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 933,
+						"y": 409,
+						"w": 158,
+						"h": 115
+					},
+					"frame": {
+						"x": 1870,
+						"y": 1351,
+						"w": 158,
+						"h": 115
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 96,
+						"h": 272
+					},
+					"frame": {
+						"x": 1928,
+						"y": 1678,
+						"w": 96,
+						"h": 272
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 96,
+						"h": 272
+					},
+					"frame": {
+						"x": 1928,
+						"y": 1678,
+						"w": 96,
+						"h": 272
+					}
+				},
+				{
+					"filename": "party10/nest/nest_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 283,
+						"h": 139
+					},
+					"frame": {
+						"x": 1615,
+						"y": 1907,
+						"w": 283,
+						"h": 139
+					}
+				},
+				{
+					"filename": "party10/nest/nest_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 283,
+						"h": 139
+					},
+					"frame": {
+						"x": 1615,
+						"y": 1907,
+						"w": 283,
+						"h": 139
+					}
+				},
+				{
+					"filename": "party10/thing4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 692,
+						"w": 124,
+						"h": 74
+					},
+					"frame": {
+						"x": 1900,
+						"y": 1952,
+						"w": 124,
+						"h": 74
+					}
+				},
+				{
+					"filename": "party10/water/water_0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 50
+					},
+					"frame": {
+						"x": 1729,
+						"y": 1678,
+						"w": 142,
+						"h": 50
+					}
+				},
+				{
+					"filename": "party10/water/water_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 50
+					},
+					"frame": {
+						"x": 1729,
+						"y": 1678,
+						"w": 142,
+						"h": 50
+					}
+				},
+				{
+					"filename": "party10/plant10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1019,
+						"y": 392,
+						"w": 211,
+						"h": 80
+					},
+					"frame": {
+						"x": 1209,
+						"y": 1962,
+						"w": 211,
+						"h": 80
+					}
+				},
+				{
+					"filename": "party10/rock11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1134,
+						"y": 596,
+						"w": 66,
+						"h": 46
+					},
+					"frame": {
+						"x": 1111,
+						"y": 1984,
+						"w": 66,
+						"h": 46
+					}
+				},
+				{
+					"filename": "party10/leaf4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 672,
+						"y": 428,
+						"w": 104,
+						"h": 61
+					},
+					"frame": {
+						"x": 984,
+						"y": 1985,
+						"w": 104,
+						"h": 61
+					}
+				},
+				{
+					"filename": "party10/leaf7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 669,
+						"y": 322,
+						"w": 158,
+						"h": 77
+					},
+					"frame": {
+						"x": 1422,
+						"y": 1962,
+						"w": 158,
+						"h": 77
+					}
+				},
+				{
+					"filename": "party10/thing1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 614,
+						"w": 217,
+						"h": 98
+					},
+					"frame": {
+						"x": 1,
+						"y": 1939,
+						"w": 217,
+						"h": 98
+					}
+				},
+				{
+					"filename": "party10/leaf8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 780,
+						"y": 326,
+						"w": 212,
+						"h": 85
+					},
+					"frame": {
+						"x": 220,
+						"y": 1939,
+						"w": 212,
+						"h": 85
+					}
+				},
+				{
+					"filename": "party10/tree2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 973,
+						"y": 746,
+						"w": 175,
+						"h": 98
+					},
+					"frame": {
+						"x": 434,
+						"y": 1939,
+						"w": 175,
+						"h": 98
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 97,
+						"h": 271
+					},
+					"frame": {
+						"x": 1860,
+						"y": 1,
+						"w": 97,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 97,
+						"h": 271
+					},
+					"frame": {
+						"x": 1860,
+						"y": 1,
+						"w": 97,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 97,
+						"h": 271
+					},
+					"frame": {
+						"x": 1860,
+						"y": 274,
+						"w": 97,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 97,
+						"h": 271
+					},
+					"frame": {
+						"x": 1860,
+						"y": 274,
+						"w": 97,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 1860,
+						"y": 547,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 1860,
+						"y": 547,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/catalog/catalog_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 189,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 182,
+						"h": 127
+					},
+					"frame": {
+						"x": 1860,
+						"y": 820,
+						"w": 182,
+						"h": 127
+					}
+				},
+				{
+					"filename": "party10/catalog/catalog_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 189,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 182,
+						"h": 127
+					},
+					"frame": {
+						"x": 1860,
+						"y": 820,
+						"w": 182,
+						"h": 127
+					}
+				},
+				{
+					"filename": "party10/catalog/catalog_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 189,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 182,
+						"h": 127
+					},
+					"frame": {
+						"x": 1860,
+						"y": 820,
+						"w": 182,
+						"h": 127
+					}
+				},
+				{
+					"filename": "party10/stick2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 267,
+						"y": 506,
+						"w": 71,
+						"h": 111
+					},
+					"frame": {
+						"x": 1957,
+						"y": 547,
+						"w": 71,
+						"h": 111
+					}
+				},
+				{
+					"filename": "party10/stick1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 637,
+						"w": 64,
+						"h": 99
+					},
+					"frame": {
+						"x": 1957,
+						"y": 660,
+						"w": 64,
+						"h": 99
+					}
+				},
+				{
+					"filename": "party10/rock3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 626,
+						"y": 529,
+						"w": 66,
+						"h": 46
+					},
+					"frame": {
+						"x": 1957,
+						"y": 761,
+						"w": 66,
+						"h": 46
+					}
+				},
+				{
+					"filename": "party10/arrow1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 832,
+						"y": 274,
+						"w": 78,
+						"h": 85
+					},
+					"frame": {
+						"x": 1959,
+						"y": 1,
+						"w": 78,
+						"h": 85
+					}
+				}
+			]
+		},
+		{
+			"image": "party10@4x-1.png?v=1.5.36-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 503,
+				"h": 1609
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "party10/plant5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1202,
+						"y": 595,
+						"w": 316,
+						"h": 120
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 316,
+						"h": 120
+					}
+				},
+				{
+					"filename": "party10/rock14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 297,
+						"y": 470,
+						"w": 182,
+						"h": 163
+					},
+					"frame": {
+						"x": 319,
+						"y": 1,
+						"w": 182,
+						"h": 163
+					}
+				},
+				{
+					"filename": "party10/tree1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 918,
+						"y": 783,
+						"w": 306,
+						"h": 114
+					},
+					"frame": {
+						"x": 1,
+						"y": 123,
+						"w": 306,
+						"h": 114
+					}
+				},
+				{
+					"filename": "party10/catalog/catalog_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 189,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 189,
+						"h": 132
+					},
+					"frame": {
+						"x": 309,
+						"y": 166,
+						"w": 189,
+						"h": 132
+					}
+				},
+				{
+					"filename": "party10/plant3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1255,
+						"y": 677,
+						"w": 276,
+						"h": 129
+					},
+					"frame": {
+						"x": 1,
+						"y": 239,
+						"w": 276,
+						"h": 129
+					}
+				},
+				{
+					"filename": "party10/bed1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1020,
+						"y": 131,
+						"w": 215,
+						"h": 167
+					},
+					"frame": {
+						"x": 279,
+						"y": 300,
+						"w": 215,
+						"h": 167
+					}
+				},
+				{
+					"filename": "party10/leaf9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1240,
+						"y": 829,
+						"w": 275,
+						"h": 138
+					},
+					"frame": {
+						"x": 1,
+						"y": 370,
+						"w": 275,
+						"h": 138
+					}
+				},
+				{
+					"filename": "party10/bed2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 788,
+						"y": 152,
+						"w": 215,
+						"h": 115
+					},
+					"frame": {
+						"x": 278,
+						"y": 469,
+						"w": 215,
+						"h": 115
+					}
+				},
+				{
+					"filename": "party10/nest/nest_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 275,
+						"h": 132
+					},
+					"frame": {
+						"x": 1,
+						"y": 510,
+						"w": 275,
+						"h": 132
+					}
+				},
+				{
+					"filename": "party10/leaf6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 607,
+						"y": 354,
+						"w": 211,
+						"h": 79
+					},
+					"frame": {
+						"x": 278,
+						"y": 586,
+						"w": 211,
+						"h": 79
+					}
+				},
+				{
+					"filename": "party10/bigrock1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 448,
+						"w": 240,
+						"h": 125
+					},
+					"frame": {
+						"x": 1,
+						"y": 644,
+						"w": 240,
+						"h": 125
+					}
+				},
+				{
+					"filename": "party10/plant1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1141,
+						"y": 794,
+						"w": 235,
+						"h": 139
+					},
+					"frame": {
+						"x": 243,
+						"y": 667,
+						"w": 235,
+						"h": 139
+					}
+				},
+				{
+					"filename": "party10/leaf1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 694,
+						"y": 841,
+						"w": 235,
+						"h": 126
+					},
+					"frame": {
+						"x": 1,
+						"y": 771,
+						"w": 235,
+						"h": 126
+					}
+				},
+				{
+					"filename": "party10/plant4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1303,
+						"y": 595,
+						"w": 228,
+						"h": 172
+					},
+					"frame": {
+						"x": 238,
+						"y": 808,
+						"w": 228,
+						"h": 172
+					}
+				},
+				{
+					"filename": "party10/waterfall/static",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1159,
+						"y": 287,
+						"w": 205,
+						"h": 144
+					},
+					"frame": {
+						"x": 1,
+						"y": 899,
+						"w": 205,
+						"h": 144
+					}
+				},
+				{
+					"filename": "party10/leaf5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 675,
+						"y": 378,
+						"w": 152,
+						"h": 94
+					},
+					"frame": {
+						"x": 208,
+						"y": 982,
+						"w": 152,
+						"h": 94
+					}
+				},
+				{
+					"filename": "party10/plant14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 285,
+						"w": 138,
+						"h": 101
+					},
+					"frame": {
+						"x": 362,
+						"y": 982,
+						"w": 138,
+						"h": 101
+					}
+				},
+				{
+					"filename": "party10/water/water_0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 1045,
+						"w": 142,
+						"h": 50
+					}
+				},
+				{
+					"filename": "party10/water/water_0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 1045,
+						"w": 142,
+						"h": 50
+					}
+				},
+				{
+					"filename": "party10/water/water_0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 50
+					},
+					"frame": {
+						"x": 145,
+						"y": 1078,
+						"w": 142,
+						"h": 50
+					}
+				},
+				{
+					"filename": "party10/water/water_0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 50
+					},
+					"frame": {
+						"x": 145,
+						"y": 1078,
+						"w": 142,
+						"h": 50
+					}
+				},
+				{
+					"filename": "party10/plant9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1210,
+						"y": 379,
+						"w": 134,
+						"h": 98
+					},
+					"frame": {
+						"x": 1,
+						"y": 1097,
+						"w": 134,
+						"h": 98
+					}
+				},
+				{
+					"filename": "party10/thing2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 226,
+						"y": 569,
+						"w": 121,
+						"h": 80
+					},
+					"frame": {
+						"x": 289,
+						"y": 1085,
+						"w": 121,
+						"h": 80
+					}
+				},
+				{
+					"filename": "party10/arrow3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 1273,
+						"y": 385,
+						"w": 90,
+						"h": 97
+					},
+					"frame": {
+						"x": 412,
+						"y": 1085,
+						"w": 90,
+						"h": 97
+					}
+				},
+				{
+					"filename": "party10/leaf3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 616,
+						"y": 460,
+						"w": 119,
+						"h": 71
+					},
+					"frame": {
+						"x": 137,
+						"y": 1130,
+						"w": 119,
+						"h": 71
+					}
+				},
+				{
+					"filename": "party10/thing3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 630,
+						"w": 112,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 1197,
+						"w": 112,
+						"h": 105
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 1,
+						"y": 1304,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 1,
+						"y": 1304,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 98,
+						"y": 1304,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 98,
+						"y": 1304,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/arrow2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 276,
+						"w": 92,
+						"h": 96
+					},
+					"frame": {
+						"x": 115,
+						"y": 1203,
+						"w": 92,
+						"h": 96
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 195,
+						"y": 1301,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 195,
+						"y": 1301,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/stick3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 478,
+						"w": 92,
+						"h": 105
+					},
+					"frame": {
+						"x": 258,
+						"y": 1184,
+						"w": 92,
+						"h": 105
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 292,
+						"y": 1291,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 292,
+						"y": 1291,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 389,
+						"y": 1184,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/waterfall/fall/fall_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 271
+					},
+					"frame": {
+						"x": 389,
+						"y": 1184,
+						"w": 95,
+						"h": 271
+					}
+				},
+				{
+					"filename": "party10/plant13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 902,
+						"y": 398,
+						"w": 92,
+						"h": 74
+					},
+					"frame": {
+						"x": 389,
+						"y": 1457,
+						"w": 92,
+						"h": 74
+					}
+				},
+				{
+					"filename": "party10/thing5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 917,
+						"y": 292,
+						"w": 90,
+						"h": 75
+					},
+					"frame": {
+						"x": 389,
+						"y": 1533,
+						"w": 90,
+						"h": 75
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b86f561f9fef6bd10976a2f94cf6b717:5ef665f2762dbe26a02259135fb1144f:deed8d0958a9eff9400418a067116528$"
+	}
+}

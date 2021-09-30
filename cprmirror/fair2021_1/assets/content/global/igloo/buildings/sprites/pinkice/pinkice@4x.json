@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "pinkice@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1491,
+				"h": 916
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pinkice/castle",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 0,
+						"w": 1290,
+						"h": 914
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1290,
+						"h": 914
+					}
+				},
+				{
+					"filename": "pinkice/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 196
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 8,
+						"w": 177,
+						"h": 187
+					},
+					"frame": {
+						"x": 1293,
+						"y": 1,
+						"w": 177,
+						"h": 187
+					}
+				},
+				{
+					"filename": "pinkice/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 196
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 7,
+						"w": 177,
+						"h": 187
+					},
+					"frame": {
+						"x": 1293,
+						"y": 190,
+						"w": 177,
+						"h": 187
+					}
+				},
+				{
+					"filename": "pinkice/path",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 197,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 197,
+						"h": 25
+					},
+					"frame": {
+						"x": 1293,
+						"y": 379,
+						"w": 197,
+						"h": 25
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fe1c1edbb4731b0b1cd29187ce31d461:80001832e09686197751f6da1c08d1df:8ff5dd9cc470c12f1a0179c45ce20a1f$"
+	}
+}

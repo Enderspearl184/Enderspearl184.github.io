@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "shipwreck@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1280,
+				"h": 1677
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shipwreck/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1278,
+						"h": 735
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1278,
+						"h": 735
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1278,
+						"h": 735
+					}
+				},
+				{
+					"filename": "shipwreck/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 0,
+						"w": 1277,
+						"h": 938
+					},
+					"frame": {
+						"x": 1,
+						"y": 738,
+						"w": 1277,
+						"h": 938
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3298201bb0e359fd6bc72797306cbb4f:3e03803c9eb35ae1e9319e077256aa2f:3a23e1db26be29a11b2d81c325eeba79$"
+	}
+}

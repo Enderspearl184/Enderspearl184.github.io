@@ -1,0 +1,33 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/client/interface/elements/buy_tag/ticket/BuyTagTicket.js",
+                "type": "script",
+                "key": "BuyTagTicket"
+            },
+            {
+                "url": "assets/client/interface/elements/DynamicElement.js",
+                "type": "script",
+                "key": "DynamicElement"
+            },
+            {
+                "url": "assets/client/interface/prompt/Prompt.js",
+                "type": "script",
+                "key": "Prompt"
+            },
+            {
+                "url": "assets/client/interface/elements/UIButton.js",
+                "type": "script",
+                "key": "UIButton"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

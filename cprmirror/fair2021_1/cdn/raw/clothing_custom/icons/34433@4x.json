@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "34433@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 157,
+				"h": 147
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sunhat_icon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 173,
+						"y": 178,
+						"w": 155,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 155,
+						"h": 145
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:032825d7a2bb41c370a15106a5bc41ac:be01938755c310c7b15cbb34b5f10f9b:458c003370e2828bd65fa64b0ed83bb1$"
+	}
+}

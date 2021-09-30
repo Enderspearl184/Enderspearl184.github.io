@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "candy@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 792,
+				"h": 1530
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "candy/16",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 468,
+						"h": 605
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 468,
+						"h": 605
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 468,
+						"h": 605
+					}
+				},
+				{
+					"filename": "candy/15",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 497,
+						"h": 580
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 497,
+						"h": 580
+					},
+					"frame": {
+						"x": 1,
+						"y": 608,
+						"w": 497,
+						"h": 580
+					}
+				},
+				{
+					"filename": "candy/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 353,
+						"h": 442
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 0,
+						"w": 286,
+						"h": 442
+					},
+					"frame": {
+						"x": 471,
+						"y": 1,
+						"w": 286,
+						"h": 442
+					}
+				},
+				{
+					"filename": "candy/18",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 99,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 99,
+						"h": 123
+					},
+					"frame": {
+						"x": 471,
+						"y": 445,
+						"w": 99,
+						"h": 123
+					}
+				},
+				{
+					"filename": "candy/9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 790,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 790,
+						"h": 339
+					},
+					"frame": {
+						"x": 1,
+						"y": 1190,
+						"w": 790,
+						"h": 339
+					}
+				},
+				{
+					"filename": "candy/door1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 206
+					},
+					"frame": {
+						"x": 500,
+						"y": 570,
+						"w": 111,
+						"h": 206
+					}
+				},
+				{
+					"filename": "candy/door2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 203
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 203
+					},
+					"frame": {
+						"x": 500,
+						"y": 778,
+						"w": 110,
+						"h": 203
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b40910ac3ada4d6b70f6c84cb3e969a2:7d095f02cfb9f17a4d255402405f8084:7450fe45f6af4d8b98c7f76a6d786a35$"
+	}
+}

@@ -1,0 +1,136 @@
+{
+	"textures": [
+		{
+			"image": "creepy@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1505,
+				"h": 1875
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "creepy/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 0,
+						"w": 1363,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1363,
+						"h": 967
+					}
+				},
+				{
+					"filename": "creepy/foreground2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 63,
+						"w": 1320,
+						"h": 904
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 1320,
+						"h": 904
+					}
+				},
+				{
+					"filename": "creepy/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 208,
+						"h": 277
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 181,
+						"h": 261
+					},
+					"frame": {
+						"x": 1323,
+						"y": 970,
+						"w": 181,
+						"h": 261
+					}
+				},
+				{
+					"filename": "creepy/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 208,
+						"h": 277
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 181,
+						"h": 260
+					},
+					"frame": {
+						"x": 1323,
+						"y": 1233,
+						"w": 181,
+						"h": 260
+					}
+				}
+			]
+		},
+		{
+			"image": "creepy@4x-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1247,
+				"h": 377
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "creepy/foreground",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 592,
+						"w": 1245,
+						"h": 375
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1245,
+						"h": 375
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:074db3eb0987e3c67e65dbd0ee86d932:128da0fe8ad90447abc0921e71b5da80:7154fa8b2c5efcf2853ea804475b464f$"
+	}
+}

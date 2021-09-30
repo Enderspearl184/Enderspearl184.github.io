@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "classic@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1533,
+				"h": 969
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "classic/igloo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a16bf829944508cb596d1a6b3a028f46:da48ab5f52ae07c8855d10d64ec0b46f:d04c341ecd871ba136d6b8dba7a18778$"
+	}
+}

@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "fair_golden@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 856,
+				"h": 970
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fair_golden/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 349,
+						"y": 0,
+						"w": 854,
+						"h": 874
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 854,
+						"h": 874
+					}
+				},
+				{
+					"filename": "fair_golden/button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 335,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 335,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 877,
+						"w": 335,
+						"h": 92
+					}
+				},
+				{
+					"filename": "fair_golden/button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 335,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 335,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 877,
+						"w": 335,
+						"h": 92
+					}
+				},
+				{
+					"filename": "fair_golden/button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 335,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 335,
+						"h": 92
+					},
+					"frame": {
+						"x": 338,
+						"y": 877,
+						"w": 335,
+						"h": 92
+					}
+				},
+				{
+					"filename": "fair_golden/closebtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 39,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 39
+					},
+					"frame": {
+						"x": 675,
+						"y": 877,
+						"w": 39,
+						"h": 39
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cf44633641d6c915ce8f974ba3c9070c:f3ec077a49753929d71e6e06e3273bf9:ee1cece1047431b57c46a50eaff0f35b$"
+	}
+}

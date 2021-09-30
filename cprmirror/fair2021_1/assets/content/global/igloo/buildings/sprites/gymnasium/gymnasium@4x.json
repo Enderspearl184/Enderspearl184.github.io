@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "gymnasium@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1812,
+				"h": 891
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "gymnasium/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 37,
+						"w": 1332,
+						"h": 889
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1332,
+						"h": 889
+					}
+				},
+				{
+					"filename": "gymnasium/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 412
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 6,
+						"w": 106,
+						"h": 396
+					},
+					"frame": {
+						"x": 1335,
+						"y": 1,
+						"w": 106,
+						"h": 396
+					}
+				},
+				{
+					"filename": "gymnasium/foreground",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 861,
+						"y": 697,
+						"w": 476,
+						"h": 238
+					},
+					"frame": {
+						"x": 1335,
+						"y": 399,
+						"w": 476,
+						"h": 238
+					}
+				},
+				{
+					"filename": "gymnasium/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 412
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 6,
+						"w": 106,
+						"h": 396
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 106,
+						"h": 396
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:74ecf74fc03eb5c7721c29a836fe29a0:d56b4e1f4bcdb4fc0c653861c71bcaaa:3d7fc46d1be57489fd3f30e11bdc5f44$"
+	}
+}

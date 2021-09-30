@@ -1,0 +1,398 @@
+{
+	"textures": [
+		{
+			"image": "boiler@4x-0.png?v=1.7.29-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1891,
+				"h": 969
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "boiler/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "boiler/drawers",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 767,
+						"y": 351,
+						"w": 232,
+						"h": 219
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 232,
+						"h": 219
+					}
+				},
+				{
+					"filename": "boiler/cab/cab_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1768,
+						"y": 1,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "boiler/cab/cab_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 81
+					},
+					"frame": {
+						"x": 1768,
+						"y": 86,
+						"w": 118,
+						"h": 81
+					}
+				},
+				{
+					"filename": "boiler/cab/cab_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 78
+					},
+					"frame": {
+						"x": 1768,
+						"y": 169,
+						"w": 116,
+						"h": 78
+					}
+				},
+				{
+					"filename": "boiler/cave_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 177,
+						"h": 401
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 177,
+						"h": 401
+					},
+					"frame": {
+						"x": 1534,
+						"y": 222,
+						"w": 177,
+						"h": 401
+					}
+				},
+				{
+					"filename": "boiler/cave_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 177,
+						"h": 401
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 177,
+						"h": 364
+					},
+					"frame": {
+						"x": 1713,
+						"y": 249,
+						"w": 177,
+						"h": 364
+					}
+				},
+				{
+					"filename": "boiler/cab/cab_0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 123,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 123,
+						"h": 86
+					},
+					"frame": {
+						"x": 1713,
+						"y": 615,
+						"w": 123,
+						"h": 86
+					}
+				},
+				{
+					"filename": "boiler/smoke/smoke_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 45,
+						"h": 110
+					},
+					"frame": {
+						"x": 1838,
+						"y": 615,
+						"w": 45,
+						"h": 110
+					}
+				},
+				{
+					"filename": "boiler/cab/cab_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 75
+					},
+					"frame": {
+						"x": 1534,
+						"y": 625,
+						"w": 114,
+						"h": 75
+					}
+				},
+				{
+					"filename": "boiler/smoke/smoke_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 44,
+						"h": 138
+					},
+					"frame": {
+						"x": 1650,
+						"y": 625,
+						"w": 44,
+						"h": 138
+					}
+				},
+				{
+					"filename": "boiler/cab/cab_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 73
+					},
+					"frame": {
+						"x": 1534,
+						"y": 702,
+						"w": 111,
+						"h": 73
+					}
+				},
+				{
+					"filename": "boiler/cab/cab_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 71
+					},
+					"frame": {
+						"x": 1696,
+						"y": 703,
+						"w": 110,
+						"h": 71
+					}
+				},
+				{
+					"filename": "boiler/smoke/smoke_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 44,
+						"h": 136
+					},
+					"frame": {
+						"x": 1647,
+						"y": 765,
+						"w": 44,
+						"h": 136
+					}
+				},
+				{
+					"filename": "boiler/cab/cab_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1534,
+						"y": 777,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "boiler/cab/cab_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1534,
+						"y": 777,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "boiler/smoke/smoke_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 44,
+						"h": 117
+					},
+					"frame": {
+						"x": 1534,
+						"y": 846,
+						"w": 44,
+						"h": 117
+					}
+				},
+				{
+					"filename": "boiler/smoke/smoke_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 13,
+						"w": 42,
+						"h": 126
+					},
+					"frame": {
+						"x": 1808,
+						"y": 727,
+						"w": 42,
+						"h": 126
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4f61298332d30fc5d59ec2c7c3acd3a6:983eb74ee384bcbff85613b5b8b233bf:c4eaded41146d7ccf9627471fa0ea650$"
+	}
+}

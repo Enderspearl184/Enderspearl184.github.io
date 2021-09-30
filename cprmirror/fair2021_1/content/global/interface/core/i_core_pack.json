@@ -1,0 +1,23 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/interface/core/core.json?v=1.7.29-beta",
+                "path": "assets/content/global/interface/core/",
+                "key": "core"
+            },
+            {
+                "url": "assets/content/global/interface/core/rewards_btn.png?v=1.7.29-beta",
+                "type": "image",
+                "key": "rewards_btn"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

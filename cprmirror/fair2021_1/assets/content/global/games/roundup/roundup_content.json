@@ -1,0 +1,39 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/games/roundup/roundup.json",
+                "path": "assets/content/global/games/roundup/",
+                "key": "roundup"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/roundup/audio/escape.mp3"
+                ],
+                "type": "audio",
+                "key": "escape"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/roundup/audio/capture1.mp3"
+                ],
+                "type": "audio",
+                "key": "capture1"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/roundup/audio/capture2.mp3"
+                ],
+                "type": "audio",
+                "key": "capture2"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

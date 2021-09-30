@@ -1,0 +1,5103 @@
+{
+	"textures": [
+		{
+			"image": "forest@4x-0.png?v=1.7.29-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 1997
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "forest/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1554,
+						"h": 1096
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1551,
+						"h": 1096
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1551,
+						"h": 1096
+					}
+				},
+				{
+					"filename": "forest/treesright",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 407,
+						"h": 669
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 407,
+						"h": 669
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1,
+						"w": 407,
+						"h": 669
+					}
+				},
+				{
+					"filename": "forest/water",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 93
+					},
+					"frame": {
+						"x": 1963,
+						"y": 1,
+						"w": 80,
+						"h": 93
+					}
+				},
+				{
+					"filename": "forest/sign1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 83
+					},
+					"frame": {
+						"x": 1963,
+						"y": 96,
+						"w": 73,
+						"h": 83
+					}
+				},
+				{
+					"filename": "forest/memorygame/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 342,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 342,
+						"h": 138
+					},
+					"frame": {
+						"x": 1554,
+						"y": 672,
+						"w": 342,
+						"h": 138
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 148,
+						"h": 105
+					},
+					"frame": {
+						"x": 1898,
+						"y": 672,
+						"w": 148,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/barrel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 105
+					},
+					"frame": {
+						"x": 1898,
+						"y": 779,
+						"w": 90,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/haye3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 308,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 308,
+						"h": 178
+					},
+					"frame": {
+						"x": 1554,
+						"y": 812,
+						"w": 308,
+						"h": 178
+					}
+				},
+				{
+					"filename": "forest/rock/rock0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 28,
+						"w": 179,
+						"h": 182
+					},
+					"frame": {
+						"x": 1864,
+						"y": 886,
+						"w": 179,
+						"h": 182
+					}
+				},
+				{
+					"filename": "forest/prizebooth/boothbuilding",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 275,
+						"h": 357
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 357
+					},
+					"frame": {
+						"x": 1554,
+						"y": 992,
+						"w": 275,
+						"h": 357
+					}
+				},
+				{
+					"filename": "forest/prizebooth/inner",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 219
+					},
+					"frame": {
+						"x": 1831,
+						"y": 1070,
+						"w": 215,
+						"h": 219
+					}
+				},
+				{
+					"filename": "forest/prizebooth/innerglow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 219
+					},
+					"frame": {
+						"x": 1831,
+						"y": 1291,
+						"w": 215,
+						"h": 219
+					}
+				},
+				{
+					"filename": "forest/treesleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 985,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 985,
+						"h": 645
+					},
+					"frame": {
+						"x": 1,
+						"y": 1351,
+						"w": 985,
+						"h": 645
+					}
+				},
+				{
+					"filename": "forest/rock/rock0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 1099,
+						"w": 184,
+						"h": 210
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 209
+					},
+					"frame": {
+						"x": 187,
+						"y": 1099,
+						"w": 192,
+						"h": 209
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 209
+					},
+					"frame": {
+						"x": 381,
+						"y": 1099,
+						"w": 192,
+						"h": 209
+					}
+				},
+				{
+					"filename": "forest/rock/rock0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 187,
+						"h": 207
+					},
+					"frame": {
+						"x": 575,
+						"y": 1099,
+						"w": 187,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/rock/rock0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 12,
+						"w": 195,
+						"h": 198
+					},
+					"frame": {
+						"x": 764,
+						"y": 1099,
+						"w": 195,
+						"h": 198
+					}
+				},
+				{
+					"filename": "forest/rock/rock0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 14,
+						"w": 200,
+						"h": 196
+					},
+					"frame": {
+						"x": 961,
+						"y": 1099,
+						"w": 200,
+						"h": 196
+					}
+				},
+				{
+					"filename": "forest/bullarea",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 765,
+						"h": 461
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 765,
+						"h": 461
+					},
+					"frame": {
+						"x": 988,
+						"y": 1512,
+						"w": 765,
+						"h": 461
+					}
+				},
+				{
+					"filename": "forest/rock/rock0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 14,
+						"w": 199,
+						"h": 196
+					},
+					"frame": {
+						"x": 988,
+						"y": 1297,
+						"w": 199,
+						"h": 196
+					}
+				},
+				{
+					"filename": "forest/rock/rock0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 19,
+						"w": 202,
+						"h": 191
+					},
+					"frame": {
+						"x": 1163,
+						"y": 1099,
+						"w": 202,
+						"h": 191
+					}
+				},
+				{
+					"filename": "forest/rock/rock0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 19,
+						"w": 202,
+						"h": 191
+					},
+					"frame": {
+						"x": 1163,
+						"y": 1099,
+						"w": 202,
+						"h": 191
+					}
+				},
+				{
+					"filename": "forest/fish",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 120
+					},
+					"frame": {
+						"x": 1367,
+						"y": 1099,
+						"w": 155,
+						"h": 120
+					}
+				},
+				{
+					"filename": "forest/rock/rock0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 200,
+						"h": 186
+					},
+					"frame": {
+						"x": 1189,
+						"y": 1292,
+						"w": 200,
+						"h": 186
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 16,
+						"w": 150,
+						"h": 105
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1221,
+						"w": 150,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/pufflepaddle/pufflebooth",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 295
+					},
+					"frame": {
+						"x": 1755,
+						"y": 1512,
+						"w": 239,
+						"h": 295
+					}
+				},
+				{
+					"filename": "forest/rock/rock0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 25,
+						"w": 201,
+						"h": 185
+					},
+					"frame": {
+						"x": 1755,
+						"y": 1809,
+						"w": 201,
+						"h": 185
+					}
+				},
+				{
+					"filename": "forest/haye2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 188,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 188,
+						"h": 102
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1351,
+						"w": 188,
+						"h": 102
+					}
+				}
+			]
+		},
+		{
+			"image": "forest@4x-1.png?v=1.7.29-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1940,
+				"h": 2025
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "forest/treesleft2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 378,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 378,
+						"h": 645
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 378,
+						"h": 645
+					}
+				},
+				{
+					"filename": "forest/memorygame/booth1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 409,
+						"h": 532
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 532
+					},
+					"frame": {
+						"x": 1,
+						"y": 648,
+						"w": 409,
+						"h": 532
+					}
+				},
+				{
+					"filename": "forest/memorygame/booth2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 409,
+						"h": 532
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 532
+					},
+					"frame": {
+						"x": 381,
+						"y": 1,
+						"w": 409,
+						"h": 532
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 381,
+						"y": 535,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 209
+					},
+					"frame": {
+						"x": 1,
+						"y": 1182,
+						"w": 192,
+						"h": 209
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0043",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 209
+					},
+					"frame": {
+						"x": 1,
+						"y": 1393,
+						"w": 192,
+						"h": 209
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0044",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 209
+					},
+					"frame": {
+						"x": 1,
+						"y": 1604,
+						"w": 192,
+						"h": 209
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 1,
+						"y": 1815,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 195,
+						"y": 1182,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 195,
+						"y": 1392,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 195,
+						"y": 1602,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 195,
+						"y": 1812,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 389,
+						"y": 1182,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 412,
+						"y": 642,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 530,
+						"y": 535,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 530,
+						"y": 535,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 530,
+						"y": 535,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 412,
+						"y": 852,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 412,
+						"y": 852,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 412,
+						"y": 852,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 412,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 412,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 412,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 412,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 412,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 561,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 561,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 561,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 561,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 606,
+						"y": 642,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 679,
+						"y": 535,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 679,
+						"y": 535,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 679,
+						"y": 535,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 679,
+						"y": 535,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 606,
+						"y": 852,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					},
+					"frame": {
+						"x": 792,
+						"y": 1,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 191,
+						"h": 209
+					},
+					"frame": {
+						"x": 792,
+						"y": 211,
+						"w": 191,
+						"h": 209
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 792,
+						"y": 422,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 792,
+						"y": 422,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 792,
+						"y": 422,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 191,
+						"h": 209
+					},
+					"frame": {
+						"x": 389,
+						"y": 1392,
+						"w": 191,
+						"h": 209
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 191,
+						"h": 209
+					},
+					"frame": {
+						"x": 389,
+						"y": 1603,
+						"w": 191,
+						"h": 209
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 192,
+						"h": 207
+					},
+					"frame": {
+						"x": 389,
+						"y": 1814,
+						"w": 192,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 192,
+						"h": 207
+					},
+					"frame": {
+						"x": 582,
+						"y": 1392,
+						"w": 192,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 192,
+						"h": 207
+					},
+					"frame": {
+						"x": 582,
+						"y": 1601,
+						"w": 192,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 192,
+						"h": 207
+					},
+					"frame": {
+						"x": 583,
+						"y": 1810,
+						"w": 192,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 192,
+						"h": 207
+					},
+					"frame": {
+						"x": 583,
+						"y": 1169,
+						"w": 192,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 710,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 710,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 710,
+						"y": 1062,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 192,
+						"h": 207
+					},
+					"frame": {
+						"x": 800,
+						"y": 642,
+						"w": 192,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 828,
+						"y": 529,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 828,
+						"y": 529,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 977,
+						"y": 422,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 977,
+						"y": 422,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 985,
+						"y": 211,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 985,
+						"y": 211,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 985,
+						"y": 211,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 985,
+						"y": 211,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 985,
+						"y": 211,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 985,
+						"y": 211,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 985,
+						"y": 211,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 985,
+						"y": 211,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 985,
+						"y": 211,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 986,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 800,
+						"y": 851,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 776,
+						"y": 1378,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 192,
+						"h": 206
+					},
+					"frame": {
+						"x": 777,
+						"y": 1169,
+						"w": 192,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 776,
+						"y": 1588,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 777,
+						"y": 1798,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 208
+					},
+					"frame": {
+						"x": 969,
+						"y": 1377,
+						"w": 191,
+						"h": 208
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 192,
+						"h": 206
+					},
+					"frame": {
+						"x": 969,
+						"y": 1587,
+						"w": 192,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 192,
+						"h": 206
+					},
+					"frame": {
+						"x": 970,
+						"y": 1795,
+						"w": 192,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 192,
+						"h": 206
+					},
+					"frame": {
+						"x": 971,
+						"y": 1061,
+						"w": 192,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 192,
+						"h": 206
+					},
+					"frame": {
+						"x": 993,
+						"y": 851,
+						"w": 192,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 192,
+						"h": 206
+					},
+					"frame": {
+						"x": 994,
+						"y": 632,
+						"w": 192,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 191,
+						"h": 207
+					},
+					"frame": {
+						"x": 1170,
+						"y": 421,
+						"w": 191,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 191,
+						"h": 207
+					},
+					"frame": {
+						"x": 1178,
+						"y": 211,
+						"w": 191,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 191,
+						"h": 207
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1,
+						"w": 191,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 191,
+						"h": 207
+					},
+					"frame": {
+						"x": 1162,
+						"y": 1269,
+						"w": 191,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 192,
+						"h": 205
+					},
+					"frame": {
+						"x": 1165,
+						"y": 1059,
+						"w": 192,
+						"h": 205
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 192,
+						"h": 205
+					},
+					"frame": {
+						"x": 1187,
+						"y": 840,
+						"w": 192,
+						"h": 205
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 192,
+						"h": 205
+					},
+					"frame": {
+						"x": 1188,
+						"y": 630,
+						"w": 192,
+						"h": 205
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 191,
+						"h": 206
+					},
+					"frame": {
+						"x": 1363,
+						"y": 420,
+						"w": 191,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 191,
+						"h": 206
+					},
+					"frame": {
+						"x": 1371,
+						"y": 210,
+						"w": 191,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 191,
+						"h": 206
+					},
+					"frame": {
+						"x": 1372,
+						"y": 1,
+						"w": 191,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 191,
+						"h": 206
+					},
+					"frame": {
+						"x": 1163,
+						"y": 1478,
+						"w": 191,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 192,
+						"h": 204
+					},
+					"frame": {
+						"x": 1355,
+						"y": 1266,
+						"w": 192,
+						"h": 204
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 192,
+						"h": 204
+					},
+					"frame": {
+						"x": 1359,
+						"y": 1047,
+						"w": 192,
+						"h": 204
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 192,
+						"h": 204
+					},
+					"frame": {
+						"x": 1381,
+						"y": 837,
+						"w": 192,
+						"h": 204
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 192,
+						"h": 204
+					},
+					"frame": {
+						"x": 1382,
+						"y": 628,
+						"w": 192,
+						"h": 204
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 191,
+						"h": 205
+					},
+					"frame": {
+						"x": 1556,
+						"y": 418,
+						"w": 191,
+						"h": 205
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1564,
+						"y": 209,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1565,
+						"y": 1,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1164,
+						"y": 1686,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1164,
+						"y": 1686,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1472,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1472,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1472,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1472,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1472,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1472,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1472,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1472,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1472,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1472,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/bull/bullride0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 192,
+						"h": 203
+					},
+					"frame": {
+						"x": 1549,
+						"y": 1253,
+						"w": 192,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/rock/rock0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 187,
+						"h": 207
+					},
+					"frame": {
+						"x": 1553,
+						"y": 1043,
+						"w": 187,
+						"h": 207
+					}
+				},
+				{
+					"filename": "forest/rock/rock0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 12,
+						"w": 195,
+						"h": 198
+					},
+					"frame": {
+						"x": 1575,
+						"y": 834,
+						"w": 195,
+						"h": 198
+					}
+				},
+				{
+					"filename": "forest/rock/rock0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 8,
+						"w": 191,
+						"h": 202
+					},
+					"frame": {
+						"x": 1742,
+						"y": 1034,
+						"w": 191,
+						"h": 202
+					}
+				},
+				{
+					"filename": "forest/rock/rock0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 8,
+						"w": 191,
+						"h": 202
+					},
+					"frame": {
+						"x": 1576,
+						"y": 625,
+						"w": 191,
+						"h": 202
+					}
+				},
+				{
+					"filename": "forest/rock/rock0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 7,
+						"w": 190,
+						"h": 203
+					},
+					"frame": {
+						"x": 1749,
+						"y": 414,
+						"w": 190,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/rock/rock0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 167,
+						"y": 31,
+						"w": 181,
+						"h": 179
+					},
+					"frame": {
+						"x": 1758,
+						"y": 206,
+						"w": 181,
+						"h": 179
+					}
+				},
+				{
+					"filename": "forest/rock/rock0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 167,
+						"y": 31,
+						"w": 181,
+						"h": 179
+					},
+					"frame": {
+						"x": 1758,
+						"y": 206,
+						"w": 181,
+						"h": 179
+					}
+				},
+				{
+					"filename": "forest/rock/rock0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 29,
+						"w": 179,
+						"h": 181
+					},
+					"frame": {
+						"x": 1759,
+						"y": 1,
+						"w": 179,
+						"h": 181
+					}
+				},
+				{
+					"filename": "forest/rock/rock0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 155,
+						"y": 29,
+						"w": 170,
+						"h": 181
+					},
+					"frame": {
+						"x": 1769,
+						"y": 619,
+						"w": 170,
+						"h": 181
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 144,
+						"h": 121
+					},
+					"frame": {
+						"x": 1772,
+						"y": 802,
+						"w": 144,
+						"h": 121
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 144,
+						"h": 121
+					},
+					"frame": {
+						"x": 1164,
+						"y": 1891,
+						"w": 144,
+						"h": 121
+					}
+				},
+				{
+					"filename": "forest/rock/rock0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 7,
+						"w": 190,
+						"h": 203
+					},
+					"frame": {
+						"x": 1743,
+						"y": 1238,
+						"w": 190,
+						"h": 203
+					}
+				},
+				{
+					"filename": "forest/rock/rock0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 10,
+						"w": 191,
+						"h": 200
+					},
+					"frame": {
+						"x": 1743,
+						"y": 1443,
+						"w": 191,
+						"h": 200
+					}
+				},
+				{
+					"filename": "forest/rock/rock0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 10,
+						"w": 191,
+						"h": 200
+					},
+					"frame": {
+						"x": 1550,
+						"y": 1458,
+						"w": 191,
+						"h": 200
+					}
+				},
+				{
+					"filename": "forest/rock/rock0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 27,
+						"w": 193,
+						"h": 183
+					},
+					"frame": {
+						"x": 1743,
+						"y": 1645,
+						"w": 193,
+						"h": 183
+					}
+				},
+				{
+					"filename": "forest/rock/rock0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 28,
+						"w": 184,
+						"h": 182
+					},
+					"frame": {
+						"x": 1550,
+						"y": 1660,
+						"w": 184,
+						"h": 182
+					}
+				},
+				{
+					"filename": "forest/rock/rock0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 27,
+						"w": 192,
+						"h": 183
+					},
+					"frame": {
+						"x": 1736,
+						"y": 1830,
+						"w": 192,
+						"h": 183
+					}
+				},
+				{
+					"filename": "forest/rock/rock0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 29,
+						"w": 170,
+						"h": 181
+					},
+					"frame": {
+						"x": 1358,
+						"y": 1677,
+						"w": 170,
+						"h": 181
+					}
+				},
+				{
+					"filename": "forest/rock/rock0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 143,
+						"y": 30,
+						"w": 170,
+						"h": 180
+					},
+					"frame": {
+						"x": 1530,
+						"y": 1844,
+						"w": 170,
+						"h": 180
+					}
+				},
+				{
+					"filename": "forest/haye1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 159
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 159
+					},
+					"frame": {
+						"x": 1358,
+						"y": 1860,
+						"w": 170,
+						"h": 159
+					}
+				}
+			]
+		},
+		{
+			"image": "forest@4x-2.png?v=1.7.29-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 444,
+				"h": 1531
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "forest/lever/bullcontroller0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 144,
+						"h": 105
+					},
+					"frame": {
+						"x": 299,
+						"y": 1,
+						"w": 144,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 108,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 108,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 108,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 108,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 108,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 108,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 108,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 108,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 108,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 108,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 144,
+						"h": 105
+					},
+					"frame": {
+						"x": 299,
+						"y": 108,
+						"w": 144,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 215,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 215,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 215,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 215,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 215,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 144,
+						"h": 105
+					},
+					"frame": {
+						"x": 299,
+						"y": 215,
+						"w": 144,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 322,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 322,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 322,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 322,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 322,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 322,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 322,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 322,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 322,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 144,
+						"h": 105
+					},
+					"frame": {
+						"x": 299,
+						"y": 322,
+						"w": 144,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 429,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 144,
+						"h": 105
+					},
+					"frame": {
+						"x": 299,
+						"y": 429,
+						"w": 144,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0110",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 150,
+						"y": 536,
+						"w": 147,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 144,
+						"h": 105
+					},
+					"frame": {
+						"x": 299,
+						"y": 536,
+						"w": 144,
+						"h": 105
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 15,
+						"w": 144,
+						"h": 106
+					},
+					"frame": {
+						"x": 1,
+						"y": 643,
+						"w": 144,
+						"h": 106
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 13,
+						"w": 144,
+						"h": 108
+					},
+					"frame": {
+						"x": 147,
+						"y": 643,
+						"w": 144,
+						"h": 108
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 12,
+						"w": 144,
+						"h": 109
+					},
+					"frame": {
+						"x": 293,
+						"y": 643,
+						"w": 144,
+						"h": 109
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 11,
+						"w": 144,
+						"h": 110
+					},
+					"frame": {
+						"x": 1,
+						"y": 751,
+						"w": 144,
+						"h": 110
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 10,
+						"w": 144,
+						"h": 111
+					},
+					"frame": {
+						"x": 147,
+						"y": 753,
+						"w": 144,
+						"h": 111
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 144,
+						"h": 112
+					},
+					"frame": {
+						"x": 293,
+						"y": 754,
+						"w": 144,
+						"h": 112
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 8,
+						"w": 144,
+						"h": 113
+					},
+					"frame": {
+						"x": 1,
+						"y": 863,
+						"w": 144,
+						"h": 113
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 144,
+						"h": 114
+					},
+					"frame": {
+						"x": 147,
+						"y": 866,
+						"w": 144,
+						"h": 114
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 144,
+						"h": 115
+					},
+					"frame": {
+						"x": 293,
+						"y": 868,
+						"w": 144,
+						"h": 115
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 144,
+						"h": 116
+					},
+					"frame": {
+						"x": 1,
+						"y": 978,
+						"w": 144,
+						"h": 116
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 144,
+						"h": 117
+					},
+					"frame": {
+						"x": 147,
+						"y": 982,
+						"w": 144,
+						"h": 117
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 144,
+						"h": 118
+					},
+					"frame": {
+						"x": 293,
+						"y": 985,
+						"w": 144,
+						"h": 118
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 144,
+						"h": 118
+					},
+					"frame": {
+						"x": 1,
+						"y": 1096,
+						"w": 144,
+						"h": 118
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 2,
+						"w": 144,
+						"h": 119
+					},
+					"frame": {
+						"x": 147,
+						"y": 1101,
+						"w": 144,
+						"h": 119
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 144,
+						"h": 120
+					},
+					"frame": {
+						"x": 293,
+						"y": 1105,
+						"w": 144,
+						"h": 120
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 144,
+						"h": 120
+					},
+					"frame": {
+						"x": 1,
+						"y": 1216,
+						"w": 144,
+						"h": 120
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 144,
+						"h": 120
+					},
+					"frame": {
+						"x": 147,
+						"y": 1222,
+						"w": 144,
+						"h": 120
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 144,
+						"h": 121
+					},
+					"frame": {
+						"x": 293,
+						"y": 1227,
+						"w": 144,
+						"h": 121
+					}
+				},
+				{
+					"filename": "forest/lever/bullcontroller0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 144,
+						"h": 121
+					},
+					"frame": {
+						"x": 1,
+						"y": 1338,
+						"w": 144,
+						"h": 121
+					}
+				},
+				{
+					"filename": "forest/rock/rock0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 160,
+						"y": 30,
+						"w": 168,
+						"h": 180
+					},
+					"frame": {
+						"x": 147,
+						"y": 1350,
+						"w": 168,
+						"h": 180
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5e613ebf7221b13af773e895dcb73b1e:863efdf35bf4e8704b2895e36924fb47:e520aaa63b39147a16f79f795191dadd$"
+	}
+}

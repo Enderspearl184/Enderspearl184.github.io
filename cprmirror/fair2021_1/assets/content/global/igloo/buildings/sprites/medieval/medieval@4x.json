@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "medieval@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1720,
+				"h": 1834
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "medieval/foreground1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 0,
+						"w": 1206,
+						"h": 933
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1206,
+						"h": 933
+					}
+				},
+				{
+					"filename": "medieval/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 0,
+						"w": 1202,
+						"h": 897
+					},
+					"frame": {
+						"x": 1,
+						"y": 936,
+						"w": 1202,
+						"h": 897
+					}
+				},
+				{
+					"filename": "medieval/foreground2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 188,
+						"y": 481,
+						"w": 514,
+						"h": 289
+					},
+					"frame": {
+						"x": 1205,
+						"y": 936,
+						"w": 514,
+						"h": 289
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:556670adf19c618f14d5950d7fcb598c:190fe52271d9279ef758255ed1b7e290:5227a9159389dd6ec9a66ad2445685d2$"
+	}
+}

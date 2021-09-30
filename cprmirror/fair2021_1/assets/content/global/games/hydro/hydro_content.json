@@ -1,0 +1,60 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/games/hydro/hydro.json",
+                "path": "assets/content/global/games/hydro/",
+                "key": "hydro"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/hydro/audio/bonus_sound.mp3"
+                ],
+                "type": "audio",
+                "key": "bonus_sound"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/hydro/audio/crash_sound.mp3"
+                ],
+                "type": "audio",
+                "key": "crash_sound"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/hydro/audio/jump_sound.mp3"
+                ],
+                "type": "audio",
+                "key": "jump_sound"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/hydro/audio/pop_sound.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_sound"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/hydro/audio/score_sound.mp3"
+                ],
+                "type": "audio",
+                "key": "score_sound"
+            },
+            {
+                "url": [
+                    "assets/content/global/games/hydro/audio/splash_sound.mp3"
+                ],
+                "type": "audio",
+                "key": "splash_sound"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "icecastle@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1479,
+				"h": 918
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "icecastle/castle",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 18,
+						"w": 1281,
+						"h": 916
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1281,
+						"h": 916
+					}
+				},
+				{
+					"filename": "icecastle/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 673,
+						"y": 436,
+						"w": 175,
+						"h": 186
+					},
+					"frame": {
+						"x": 1284,
+						"y": 1,
+						"w": 175,
+						"h": 186
+					}
+				},
+				{
+					"filename": "icecastle/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 673,
+						"y": 435,
+						"w": 175,
+						"h": 185
+					},
+					"frame": {
+						"x": 1284,
+						"y": 189,
+						"w": 175,
+						"h": 185
+					}
+				},
+				{
+					"filename": "icecastle/path",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 194,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 194,
+						"h": 20
+					},
+					"frame": {
+						"x": 1284,
+						"y": 376,
+						"w": 194,
+						"h": 20
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bcb75992f0e64d818fe6ed24a4b0f896:199ef8f038f3faabea7f8d78d935c40d:610b658ab48348a84d5c1f8d4e1bc0f9$"
+	}
+}

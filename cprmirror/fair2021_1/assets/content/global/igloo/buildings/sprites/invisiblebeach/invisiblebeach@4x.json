@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "invisiblebeach@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3,
+				"h": 3
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "invisiblebeach/placeholder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1,
+						"h": 1
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1,
+						"h": 1
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7622b7402197097ae1fe78bcce8fbbca:5fed5ceb09948693b325c05f4aaf5af7:0dd26c87eecc6f6c653d25ede9345de1$"
+	}
+}

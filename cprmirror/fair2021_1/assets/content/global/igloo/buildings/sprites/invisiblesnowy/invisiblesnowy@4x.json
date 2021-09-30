@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "invisiblesnowy@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3,
+				"h": 3
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "invisiblesnowy/placeholder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1,
+						"h": 1
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1,
+						"h": 1
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3f0b90a78a9e88727f86aa9238000dc3:5fed5ceb09948693b325c05f4aaf5af7:89f59721bec15a024d7c7c117c7067b7$"
+	}
+}

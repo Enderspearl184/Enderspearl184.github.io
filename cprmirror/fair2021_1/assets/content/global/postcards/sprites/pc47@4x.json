@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "pc47@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 987,
+				"h": 923
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pc47/47",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1349,
+						"h": 703
+					},
+					"spriteSourceSize": {
+						"x": 350,
+						"y": 1,
+						"w": 985,
+						"h": 697
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 985,
+						"h": 697
+					}
+				},
+				{
+					"filename": "pc47/text",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 475,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 475,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 700,
+						"w": 475,
+						"h": 222
+					}
+				},
+				{
+					"filename": "pc47/btn_0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 46
+					},
+					"frame": {
+						"x": 478,
+						"y": 700,
+						"w": 157,
+						"h": 46
+					}
+				},
+				{
+					"filename": "pc47/btn_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 46
+					},
+					"frame": {
+						"x": 637,
+						"y": 700,
+						"w": 157,
+						"h": 46
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:14311340fd88fd1110f760e9ceff9558:a8373c45ee4b837cfd9edda83fb33750:4d65bf4ade376d89dc25122f0f05412c$"
+	}
+}

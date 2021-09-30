@@ -1,0 +1,3244 @@
+{
+	"textures": [
+		{
+			"image": "fort-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2005,
+				"h": 2044
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fort/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1946,
+						"h": 1111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1946,
+						"h": 1111
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1946,
+						"h": 1111
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1949,
+						"y": 74,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/sky",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1634,
+						"h": 589
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1634,
+						"h": 589
+					},
+					"frame": {
+						"x": 1,
+						"y": 1114,
+						"w": 1634,
+						"h": 589
+					}
+				},
+				{
+					"filename": "fort/time/time0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 367,
+						"h": 403
+					},
+					"frame": {
+						"x": 1637,
+						"y": 1114,
+						"w": 367,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 367,
+						"h": 403
+					},
+					"frame": {
+						"x": 1637,
+						"y": 1114,
+						"w": 367,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 336,
+						"h": 403
+					},
+					"frame": {
+						"x": 1637,
+						"y": 1519,
+						"w": 336,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/arrow/light0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 1924,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fort/arrow/light0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 1924,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fort/arrow/light0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 1924,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fort/arrow/light0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 1924,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fort/arrow/light0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 1924,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fort/arrow/light0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 1924,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fort/fence",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1545,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1545,
+						"h": 123
+					},
+					"frame": {
+						"x": 89,
+						"y": 1705,
+						"w": 1545,
+						"h": 123
+					}
+				},
+				{
+					"filename": "fort/clouds",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1476,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1476,
+						"h": 213
+					},
+					"frame": {
+						"x": 89,
+						"y": 1830,
+						"w": 1476,
+						"h": 213
+					}
+				},
+				{
+					"filename": "fort/7175",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 79
+					},
+					"frame": {
+						"x": 1,
+						"y": 1705,
+						"w": 85,
+						"h": 79
+					}
+				},
+				{
+					"filename": "fort/timetxt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 56
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1924,
+						"w": 154,
+						"h": 56
+					}
+				}
+			]
+		},
+		{
+			"image": "fort-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1956,
+				"h": 1188
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fort/time/time0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 375,
+						"h": 403
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 375,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 369,
+						"h": 403
+					},
+					"frame": {
+						"x": 1,
+						"y": 406,
+						"w": 369,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 369,
+						"h": 403
+					},
+					"frame": {
+						"x": 1,
+						"y": 406,
+						"w": 369,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 369,
+						"h": 403
+					},
+					"frame": {
+						"x": 1,
+						"y": 406,
+						"w": 369,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/redwall2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 376
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 376
+					},
+					"frame": {
+						"x": 1,
+						"y": 811,
+						"w": 482,
+						"h": 376
+					}
+				},
+				{
+					"filename": "fort/time/time0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 403
+					},
+					"frame": {
+						"x": 372,
+						"y": 406,
+						"w": 347,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 345,
+						"h": 403
+					},
+					"frame": {
+						"x": 378,
+						"y": 1,
+						"w": 345,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 345,
+						"h": 403
+					},
+					"frame": {
+						"x": 378,
+						"y": 1,
+						"w": 345,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 345,
+						"h": 403
+					},
+					"frame": {
+						"x": 378,
+						"y": 1,
+						"w": 345,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/redwall5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 241,
+						"h": 321
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 241,
+						"h": 321
+					},
+					"frame": {
+						"x": 485,
+						"y": 811,
+						"w": 241,
+						"h": 321
+					}
+				},
+				{
+					"filename": "fort/time/time0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 336,
+						"h": 403
+					},
+					"frame": {
+						"x": 721,
+						"y": 406,
+						"w": 336,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 725,
+						"y": 1,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 725,
+						"y": 1,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 725,
+						"y": 1,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/snow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 65,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 65,
+						"h": 46
+					},
+					"frame": {
+						"x": 485,
+						"y": 1134,
+						"w": 65,
+						"h": 46
+					}
+				},
+				{
+					"filename": "fort/bluewall1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 802,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 802,
+						"h": 311
+					},
+					"frame": {
+						"x": 728,
+						"y": 811,
+						"w": 802,
+						"h": 311
+					}
+				},
+				{
+					"filename": "fort/time/time0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 1059,
+						"y": 406,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 1059,
+						"y": 406,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 1059,
+						"y": 406,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 1059,
+						"y": 406,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 1060,
+						"y": 1,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 1060,
+						"y": 1,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 1394,
+						"y": 406,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 1394,
+						"y": 406,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/time/time0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 375,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 403
+					},
+					"frame": {
+						"x": 1395,
+						"y": 1,
+						"w": 333,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fort/redwall3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 226,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 226,
+						"h": 246
+					},
+					"frame": {
+						"x": 1729,
+						"y": 406,
+						"w": 226,
+						"h": 246
+					}
+				},
+				{
+					"filename": "fort/time_container",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 218,
+						"h": 256
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1,
+						"w": 218,
+						"h": 256
+					}
+				},
+				{
+					"filename": "fort/redwall4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 227
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 227
+					},
+					"frame": {
+						"x": 1729,
+						"y": 654,
+						"w": 200,
+						"h": 227
+					}
+				},
+				{
+					"filename": "fort/bluewall3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 252
+					},
+					"frame": {
+						"x": 1532,
+						"y": 811,
+						"w": 174,
+						"h": 252
+					}
+				},
+				{
+					"filename": "fort/arrow/light0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1065,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fort/arrow/light0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1065,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fort/bluewall2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 95
+					},
+					"frame": {
+						"x": 1620,
+						"y": 1065,
+						"w": 100,
+						"h": 95
+					}
+				},
+				{
+					"filename": "fort/redwall1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 172,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 172,
+						"h": 201
+					},
+					"frame": {
+						"x": 1722,
+						"y": 883,
+						"w": 172,
+						"h": 201
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 72
+					},
+					"frame": {
+						"x": 1896,
+						"y": 883,
+						"w": 44,
+						"h": 72
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fort/balloon/hotair0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 1896,
+						"y": 957,
+						"w": 44,
+						"h": 71
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f1043e85ec3cd9765de8bb6660ff2f75:3839a60a35450a43632f0cccd76b6c99:4f0b1c3c594e12928c73d383ea9148ac$"
+	}
+}

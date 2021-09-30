@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "puffletreefort@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1533,
+				"h": 1935
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "puffletreefort/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "puffletreefort/foreground",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 1531,
+						"h": 964
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 1531,
+						"h": 964
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:873b7690f09b72d87547228220053ffb:1f3e7379034100e0344a8ae67d5d00e4:5ee0e9fbd267ff3793daa50d9d96c14f$"
+	}
+}

@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "greyice@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1492,
+				"h": 916
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "greyice/castle",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 0,
+						"w": 1290,
+						"h": 914
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1290,
+						"h": 914
+					}
+				},
+				{
+					"filename": "greyice/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 196
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 8,
+						"w": 177,
+						"h": 187
+					},
+					"frame": {
+						"x": 1293,
+						"y": 1,
+						"w": 177,
+						"h": 187
+					}
+				},
+				{
+					"filename": "greyice/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 196
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 7,
+						"w": 177,
+						"h": 187
+					},
+					"frame": {
+						"x": 1293,
+						"y": 190,
+						"w": 177,
+						"h": 187
+					}
+				},
+				{
+					"filename": "greyice/path",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 198,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 198,
+						"h": 25
+					},
+					"frame": {
+						"x": 1293,
+						"y": 379,
+						"w": 198,
+						"h": 25
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:efbf68c637e8bd361ea8dadc37938230:a5c947403e41be5df63547d4861c5d8e:610e46da8a5fa64a719212068d6881e4$"
+	}
+}

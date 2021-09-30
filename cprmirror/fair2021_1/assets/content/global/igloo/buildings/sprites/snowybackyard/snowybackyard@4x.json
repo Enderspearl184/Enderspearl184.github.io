@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "snowybackyard@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1561,
+				"h": 1638
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "snowybackyard/foreground",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 1453,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1453,
+						"h": 967
+					}
+				},
+				{
+					"filename": "snowybackyard/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 287,
+						"w": 1409,
+						"h": 667
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 1409,
+						"h": 667
+					}
+				},
+				{
+					"filename": "snowybackyard/door0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 209
+					},
+					"frame": {
+						"x": 1412,
+						"y": 970,
+						"w": 148,
+						"h": 209
+					}
+				},
+				{
+					"filename": "snowybackyard/door0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 209
+					},
+					"frame": {
+						"x": 1412,
+						"y": 1181,
+						"w": 148,
+						"h": 209
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:94f4ccc118426f7b0d61530057f8065e:4befa4057d4a530fe062361239494c72:b500585d266a616de82e3034f2d9bbf2$"
+	}
+}

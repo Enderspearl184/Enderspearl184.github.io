@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "penthouse@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1908,
+				"h": 969
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "penthouse/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "penthouse/foreground",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 891,
+						"y": 0,
+						"w": 373,
+						"h": 131
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 373,
+						"h": 131
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:511cb82ea67eb7e120b6d79a32ffbde6:5cf6721b5120b035cd3b5882e283eed0:1f3279aca420b2d89f5967616103c6eb$"
+	}
+}

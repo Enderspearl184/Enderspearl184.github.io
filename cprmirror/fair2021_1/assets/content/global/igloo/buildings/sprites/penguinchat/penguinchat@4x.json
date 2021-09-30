@@ -1,0 +1,587 @@
+{
+	"textures": [
+		{
+			"image": "penguinchat@4x-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2035,
+				"h": 1011
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "penguinchat/igloo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 177
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 166,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 177
+					},
+					"frame": {
+						"x": 1534,
+						"y": 180,
+						"w": 166,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 177
+					},
+					"frame": {
+						"x": 1702,
+						"y": 1,
+						"w": 166,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 177
+					},
+					"frame": {
+						"x": 1534,
+						"y": 359,
+						"w": 166,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 177
+					},
+					"frame": {
+						"x": 1702,
+						"y": 180,
+						"w": 166,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 177
+					},
+					"frame": {
+						"x": 1534,
+						"y": 538,
+						"w": 166,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 177
+					},
+					"frame": {
+						"x": 1702,
+						"y": 359,
+						"w": 166,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 177
+					},
+					"frame": {
+						"x": 1534,
+						"y": 717,
+						"w": 166,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 177
+					},
+					"frame": {
+						"x": 1702,
+						"y": 538,
+						"w": 165,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 177
+					},
+					"frame": {
+						"x": 1869,
+						"y": 538,
+						"w": 165,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 177
+					},
+					"frame": {
+						"x": 1702,
+						"y": 717,
+						"w": 165,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/piano/piano_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 166,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 177
+					},
+					"frame": {
+						"x": 1869,
+						"y": 717,
+						"w": 165,
+						"h": 177
+					}
+				},
+				{
+					"filename": "penguinchat/drums/drums_0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 124
+					},
+					"frame": {
+						"x": 1870,
+						"y": 1,
+						"w": 163,
+						"h": 124
+					}
+				},
+				{
+					"filename": "penguinchat/drums/drums_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 124
+					},
+					"frame": {
+						"x": 1870,
+						"y": 1,
+						"w": 163,
+						"h": 124
+					}
+				},
+				{
+					"filename": "penguinchat/drums/drums_0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 124
+					},
+					"frame": {
+						"x": 1870,
+						"y": 127,
+						"w": 163,
+						"h": 124
+					}
+				},
+				{
+					"filename": "penguinchat/drums/drums_0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 124
+					},
+					"frame": {
+						"x": 1870,
+						"y": 127,
+						"w": 163,
+						"h": 124
+					}
+				},
+				{
+					"filename": "penguinchat/drums/drums_0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 124
+					},
+					"frame": {
+						"x": 1870,
+						"y": 253,
+						"w": 163,
+						"h": 124
+					}
+				},
+				{
+					"filename": "penguinchat/drums/drums_0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 124
+					},
+					"frame": {
+						"x": 1870,
+						"y": 253,
+						"w": 163,
+						"h": 124
+					}
+				},
+				{
+					"filename": "penguinchat/drums/drums_0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 124
+					},
+					"frame": {
+						"x": 1870,
+						"y": 379,
+						"w": 163,
+						"h": 124
+					}
+				},
+				{
+					"filename": "penguinchat/drums/drums_0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 124
+					},
+					"frame": {
+						"x": 1870,
+						"y": 379,
+						"w": 163,
+						"h": 124
+					}
+				},
+				{
+					"filename": "penguinchat/bass/bass_0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 114
+					},
+					"frame": {
+						"x": 1534,
+						"y": 896,
+						"w": 83,
+						"h": 114
+					}
+				},
+				{
+					"filename": "penguinchat/bass/bass_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 83,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 82,
+						"h": 114
+					},
+					"frame": {
+						"x": 1619,
+						"y": 896,
+						"w": 82,
+						"h": 114
+					}
+				},
+				{
+					"filename": "penguinchat/bass/bass_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 83,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 82,
+						"h": 114
+					},
+					"frame": {
+						"x": 1703,
+						"y": 896,
+						"w": 82,
+						"h": 114
+					}
+				},
+				{
+					"filename": "penguinchat/bass/bass_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 83,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 78,
+						"h": 111
+					},
+					"frame": {
+						"x": 1787,
+						"y": 896,
+						"w": 78,
+						"h": 111
+					}
+				},
+				{
+					"filename": "penguinchat/bass/bass_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 83,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 78,
+						"h": 111
+					},
+					"frame": {
+						"x": 1867,
+						"y": 896,
+						"w": 78,
+						"h": 111
+					}
+				},
+				{
+					"filename": "penguinchat/bass/bass_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 83,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 76,
+						"h": 108
+					},
+					"frame": {
+						"x": 1947,
+						"y": 896,
+						"w": 76,
+						"h": 108
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5e3fd22c6745b21970664f4b0ee5c174:1af341dff0c1035746c22cd97dda9003:228c1967e15aaff604acb41f978f1701$"
+	}
+}
