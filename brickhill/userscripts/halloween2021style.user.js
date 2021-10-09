@@ -19,12 +19,18 @@
         style.href = href;
         head.appendChild(style);
     }
+    let i=1;
     document.getRootNode().children[0].className='theme-halloween';
     for (let link of document.querySelectorAll('link')) {
         if (link.rel=="stylesheet") {
-            link.remove();
+            if (i==1) {
+                link.href="https://enderspearl184.github.io/brickhill/css/halloween2021.css";
+                i++
+            } else {
+                link.href="https://enderspearl184.github.io/brickhill/css/halloween2021main.css";
+            }
         }
     }
-    addGlobalStyle("https://enderspearl184.github.io/brickhill/css/halloween2021.css");
-    addGlobalStyle("https://enderspearl184.github.io/brickhill/css/halloween2021main.css");
+    //addGlobalStyle("https://enderspearl184.github.io/brickhill/css/halloween2021.css");
+    //addGlobalStyle("https://enderspearl184.github.io/brickhill/css/halloween2021main.css");
 })();
