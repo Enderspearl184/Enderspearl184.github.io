@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  Keep the 2021 Halloween Style Forever!
 // @author       You
-// @match        https://*.brick-hill.com/*
+// @match        https://www.brick-hill.com/*
 // @icon         https://www.google.com/s2/favicons?domain=www.brick-hill.com
 // @grant        none
 // ==/UserScript==
@@ -24,10 +24,10 @@
     for (let link of document.querySelectorAll('link')) {
         if (link.rel=="stylesheet") {
             if (i==1) {
-                link.href="https://enderspearl184.github.io/brickhill/css/halloween2021.css";
+                link.href="https://enderspearl184.github.io/brickhill/css/halloween2021main.css";
                 i++
             } else {
-                link.href="https://enderspearl184.github.io/brickhill/css/halloween2021main.css";
+                link.href="https://enderspearl184.github.io/brickhill/css/halloween2021.css";
             }
         }
     }
