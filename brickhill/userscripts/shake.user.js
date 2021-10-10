@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Shaky Site
 // @version      0.1
-// @description  Experience the site in the way it definitely wasn't meant to be viewed!
+// @description  Using css from the blog, experience the site in the way it definitely wasn't meant to be viewed!
 // @author       Enderspearl184
 // @match        https://www.brick-hill.com/*
 // @icon         https://www.google.com/s2/favicons?domain=brick-hill.com
