@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Brick Hill Holiday 2020 Style  (Light)
+// @name         Brick Hill Holiday 2020 Style (Dark)
 // @version      0.1
 // @description  Keep the 2021 Holiday Style Forever!
 // @author       You
