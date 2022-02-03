@@ -14,9 +14,26 @@ function sleep(ms) {
 
 (async function() {
     //'use strict';
-    const query=document.querySelector('meta[name="og:title"]').getAttribute('content');
+    window.getCookie = function(cname) {
+        let name = cname + "=";
+        let decodedCookie = decodeURIComponent(document.cookie);
+        let ca = decodedCookie.split(';');
+        for(let i = 0; i <ca.length; i++) {
+            let c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+    let query=document.querySelector('meta[name="og:title"]')
+    if (query) query=query.getAttribute('content');
     while (!query) { //waiting until it exists because it's important!
-        query=document.querySelector('meta[name="og:title"]').getAttribute('content');
+        query=document.querySelector('meta[name="og:title"]')
+        if (query) query=query.getAttribute('content');
         await sleep(1)
     }
     const polymorphic_type=1;
@@ -29,8 +46,9 @@ function sleep(ms) {
         //it errored!!
         let pathSplit=location.pathname.split("/");
         const assetId=pathSplit[2]
-        errortext.parentElement.innerHTML+=`<button onclick="axios.post('https://www.brick-hill.com/favorites/create',{'favoriteable_id':'${assetId}','polymorphic_type':'${polymorphic_type}','toggle':true})">Favourite</button><button onclick="axios.post('https://www.brick-hill.com/favorites/create',{'favoriteable_id':'${assetId}','polymorphic_type':'${polymorphic_type}','toggle':false})">Unfavourite</button><shop-bottom id="shopbottom-v" item_id="${assetId}" starting_cursor=""></shop-bottom>`
-        setTimeout(()=>{if (!document.querySelector("div[id='shopbottom-v']")){location.reload()}},1500) //reload if the comments thing doesn't appear after 1.5 seconds
+        errortext.parentElement.innerHTML+=`<button onclick="fetch('https://www.brick-hill.com/favorites/create',{body:JSON.stringify({'favoriteable_id':'${assetId}','polymorphic_type':'${polymorphic_type}','toggle':true}),credentials:'include',method:'POST',headers:{'Content-Type':'application/json','x-xsrf-token':window.getCookie('XSRF-TOKEN')}})">Favourite</button><button onclick="fetch('https://www.brick-hill.com/favorites/create',{body:JSON.stringify({'favoriteable_id':'${assetId}','polymorphic_type':'${polymorphic_type}','toggle':false}),credentials:'include',method:'POST',headers:{'Content-Type':'application/json','x-xsrf-token':window.getCookie('XSRF-TOKEN')}})">Unfavourite</button><shop-bottom id="shopbottom-v" item_id="${assetId}" starting_cursor=""></shop-bottom>`
+        //errortext.parentElement.innerHTML+=`<button onclick="axios.post('https://www.brick-hill.com/favorites/create',{'favoriteable_id':'${assetId}','polymorphic_type':'${polymorphic_type}','toggle':true})">Favourite</button><button onclick="axios.post('https://www.brick-hill.com/favorites/create',{'favoriteable_id':'${assetId}','polymorphic_type':'${polymorphic_type}','toggle':false})">Unfavourite</button><shop-bottom id="shopbottom-v" item_id="${assetId}" starting_cursor=""></shop-bottom>`
+        setTimeout(()=>{if (!document.querySelector("vue-comp[id='shopbottom-v']")){location.reload()}},3000) //reload if the comments thing doesn't appear after 1.5 seconds
     }
     // Your code here...
 })();
