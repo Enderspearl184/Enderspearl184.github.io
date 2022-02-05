@@ -12,7 +12,7 @@
 (async function() {
     async function addGlobalStyle(text) {
         var head, style;
-        head = document.getElementsByTagName('head')[0];
+        head = document.getRootNode().children[0]//document.getElementsByTagName('head')[0];
         if (!head) { return; }
         style = document.createElement('style');
         style.innerText = text
