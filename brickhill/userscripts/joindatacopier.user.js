@@ -7,23 +7,31 @@
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
-setTimeout(function(){
-const stuff = {
-    address: window.BH.apps.SetPage.$children[0].setIp,
-    id: window.BH.apps.SetPage.$children[0].setId,
-    port: window.BH.apps.SetPage.$children[0].setPort
-}
-const playButton = document.getElementsByClassName('play-button')[0];
-const copyButton = playButton.cloneNode();
+(async function(){
+    const node = $.parseHTML($('#setpage-v')[0].__vue_app__._component.template)[0]
+    const stuff = {
+        address: node.getAttribute("set-ip"),
+        id: node.getAttribute(":set-id"),
+        port: node.getAttribute("set-port")
+    }
 
-copyButton.className = copyButton.className.replace('play-button ', '').replace('green', 'red');
-copyButton.textContent = 'Copy Join Data';
-copyButton.onclick = () => {
-    window.axios.get(window.BH.apiUrl('v1/auth/generateToken?set='.concat(stuff.id)))
-        .then(function({data}){
-            navigator.clipboard.writeText(`{"token":"${data.token}","id":"${stuff.id}","port":"${stuff.port}","ip":"${stuff.address}"}`)
-        });
-}
+    setTimeout(async function timeOut(){
+        const playButton = document.getElementsByClassName('play-button')[0];
+        if (!playButton) {
+            setTimeout(timeOut,100)
+            return
+        }
+        const copyButton = playButton.cloneNode();
 
-playButton.parentNode.append(copyButton);
-},500)
+        copyButton.className = copyButton.className.replace('play-button ', '')
+        copyButton.textContent = 'COPY JOIN DATA';
+        copyButton.onclick = () => {
+            $.ajax({url:window.BH.apiUrl('v1/auth/generateToken?set='.concat(stuff.id)),xhrFields:{withCredentials:true}})
+                .then(function(data){
+                    navigator.clipboard.writeText(`{"token":"${data.token}","id":"${stuff.id}","port":"${stuff.port}","ip":"${stuff.address}"}`)
+                    alert("Copied join data.")
+                });
+        }
+        playButton.parentNode.append(copyButton);
+    },100)
+})();
