@@ -28,8 +28,7 @@
         copyButton.onclick = () => {
             $.ajax({url:window.BH.apiUrl('v1/auth/generateToken?set='.concat(stuff.id)),xhrFields:{withCredentials:true}})
                 .then(function(data){
-                    navigator.clipboard.writeText(`{"token":"${data.token}","id":"${stuff.id}","port":"${stuff.port}","ip":"${stuff.address}"}`)
-                    alert("Copied join data.")
+                    navigator.clipboard.writeText(`{"token":"${data.token}","id":"${stuff.id}","port":"${stuff.port}","ip":"${stuff.address}"}`).then(()=>{alert("Copied join data.")})
                 });
         }
         playButton.parentNode.append(copyButton);
