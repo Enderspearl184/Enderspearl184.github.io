@@ -7,74 +7,16 @@
 			location = "https://www.youtube.com/watch?v=YZduI-_l6eQ" //rickroll'd
 		}
 		
-		var openedTimes=0
-        var openedRatio = 5
-        var startedOpenedRatio = 0.8
-        var firstTest;
-        var inter;
+    var devtools = function() {};
+    devtools.toString = function() {
+        onDevToolsFound()
+        return ':troll:'
+    }
 
-
-        window.addEventListener('load', function() {
-            setTimeout(init, 1000);
-        })
-
-        function init() {
-
-            firstTest = testDevTools();
-
-            startCheck();
-        }
-
-        function testDevTools() {
-
-            var t = performance.now();
-
-            for (var i = 0; i < 100; i++) {
-                console.log(1);
-                console.clear();
-            }
-
-            return performance.now() - t;
-        }
-
-        function startCheck() {
-
-            stopCheck();
-
-            inter = setInterval(function() {
-
-                var test = testDevTools()
-                    let ratio = test / firstTest
-                    let opened = ratio > openedRatio;
-                    if (opened) {
-						openedTimes++
-							if (openedTimes>=8) { //make sure, incase there are false positives
-								onDevToolsFound()
-							}
-					} else {
-						openedTimes=0
-					}
-
-                if (ratio < startedOpenedRatio) {
-                    firstTest = test;
-                }
-
-            }, 100);
-        }
-	
-		
-        function stopCheck() {
-            clearInterval(inter);
-        }
-		
-		//check if it's open on load
-		var minimalUserResponseInMiliseconds = 100;
-		var before = new Date().getTime();
-		debugger;
-		var after = new Date().getTime();
-		if (after - before > minimalUserResponseInMiliseconds) { // user had to resume the script manually via opened dev tools 
-			onDevToolsFound()
-		}
+    setInterval(()=>{
+        console.profile(devtools)
+        console.profileEnd(devtools)
+    }, 100)
 </script>
 	</head>
 	<body>
