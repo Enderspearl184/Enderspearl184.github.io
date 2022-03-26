@@ -1,93 +1,88 @@
+<?DOCTYPE html>
 <html>
-<head>
-<script>
-		//onDevToolsFound is what gets run when it finds devtools is open.
-		function onDevToolsFound() {
-			location = "https://www.youtube.com/watch?v=YZduI-_l6eQ" //rickroll'd
-		}
-if (navigator.userAgent.includes("Edg")) { //apparently it only works on (chromium) ms edge wtf so use the other method for anything else
-    var devtools = function() {};
-    devtools.toString = function() {
-        onDevToolsFound()
-        return ':troll:'
-    }
-
-    setInterval(()=>{
-        console.profile(devtools)
-        console.profileEnd(devtools)
-    }, 100)
-} else {	
-			var openedTimes=0
+  <head>
+    <script>
+      var gotTrolled=false
+      //onDevToolsFound is what gets run when it finds devtools is open.
+      function onDevToolsFound() {
+        if (!gotTrolled) return
+        gotTrolled=true
+        location.replace("https://www.youtube.com/watch?v=YZduI-_l6eQ") //rickroll'd
+      }
+      if (navigator.userAgent.includes("Edg")) {
+        //apparently it only works on (chromium) ms edge wtf so use the other method for anything else
+        var devtools = function() {
+        };
+        devtools.toString = function() {
+          onDevToolsFound()
+          return ':troll:'
+        }
+        setInterval(()=>{
+          console.profile(devtools)
+          console.profileEnd(devtools)
+        }
+                    , 100)
+      }
+      else {
+        var openedTimes=0
         var openedRatio = 6
         var startedOpenedRatio = 0.8
         var firstTest;
         var inter;
-
-
         window.addEventListener('load', function() {
-            setTimeout(init, 1000);
-        })
-
+          setTimeout(init, 1000);
+        }
+                               )
         function init() {
-
-            firstTest = testDevTools();
-
-            startCheck();
+          firstTest = testDevTools();
+          startCheck();
         }
-
         function testDevTools() {
-
-            var t = performance.now();
-
-            for (var i = 0; i < 100; i++) {
-                console.log(1);
-                console.clear();
-            }
-
-            return performance.now() - t;
+          var t = performance.now();
+          for (var i = 0; i < 100; i++) {
+            console.log(1);
+            console.clear();
+          }
+          return performance.now() - t;
         }
-
         function startCheck() {
-
-            stopCheck();
-
-            inter = setInterval(function() {
-
-                var test = testDevTools()
-                    let ratio = test / firstTest
-                    let opened = ratio > openedRatio;
-                    if (opened) {
-						openedTimes++
-							if (openedTimes>=8) { //make sure, incase there are false positives
-								onDevToolsFound()
-							}
-					} else {
-						openedTimes=0
-					}
-
-                if (ratio < startedOpenedRatio) {
-                    firstTest = test;
-                }
-
-            }, 100);
+          stopCheck();
+          inter = setInterval(function() {
+            var test = testDevTools()
+            let ratio = test / firstTest
+            let opened = ratio > openedRatio;
+            if (opened) {
+              openedTimes++
+              if (openedTimes>=8) {
+                //make sure, incase there are false positives
+                onDevToolsFound()
+              }
+            }
+            else {
+              openedTimes=0
+            }
+            if (ratio < startedOpenedRatio) {
+              firstTest = test;
+            }
+          }
+                              , 100);
         }
-	
-		
         function stopCheck() {
-            clearInterval(inter);
-        }	
-		//check if it's open on load
-		var minimalUserResponseInMiliseconds = 100;
-		var before = new Date().getTime();
-		debugger;
-		var after = new Date().getTime();
-		if (after - before > minimalUserResponseInMiliseconds) { // user had to resume the script manually via opened dev tools 
-			onDevToolsFound()
-		}
-}
-</script>
-	</head>
-	<body>
-		open devtools for a surprise :D
-	</body>
+          clearInterval(inter);
+        }
+        //check if it's open on load
+        var minimalUserResponseInMiliseconds = 100;
+        var before = new Date().getTime();
+        debugger;
+        var after = new Date().getTime();
+        if (after - before > minimalUserResponseInMiliseconds) {
+          // user had to resume the script manually via opened dev tools 
+          onDevToolsFound()
+        }
+      }
+    </script>
+  </head>
+  <body>
+    open devtools for a surprise :D
+  </body>
 </html>
