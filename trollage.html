@@ -1,4 +1,10 @@
 <script>
+
+		function onDevtoolsFound() {
+			alert("DEVTOOLS DETECTED!! GNOME INCOMING!")
+			location = "https://www.youtube.com/watch?v=6n3pFFPSlW4" //get gnomed
+		}
+		
 		var openedTimes=0
         var openedRatio = 3
         var startedOpenedRatio = 0.8
@@ -37,12 +43,15 @@
 
                 var test = testDevTools()
                     let ratio = test / firstTest
+					document.write(ratio)
+					document.close()
                     let opened = ratio > openedRatio;
                     if (opened) {
 						openedTimes++
-							if (openedTimes>=3) {
-                  alert("DETECTED")
-                  //do stuff here
+						document.write("opened " + ratio)
+						document.close()
+							if (openedTimes>=3) { //make sure, incase there are outliers
+								onDevToolsFound()
 							}
 					}
 
@@ -60,5 +69,13 @@
         function stopCheck() {
             clearInterval(inter);
         }
-
+		
+		//check if it's open on load
+		var minimalUserResponseInMiliseconds = 100;
+		var before = new Date().getTime();
+		debugger;
+		var after = new Date().getTime();
+		if (after - before > minimalUserResponseInMiliseconds) { // user had to resume the script manually via opened dev tools 
+			document.getElementById('test').innerHTML = 'on';
+		}
 </script>
