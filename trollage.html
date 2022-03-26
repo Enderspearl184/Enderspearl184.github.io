@@ -5,7 +5,7 @@
       var gotTrolled=false
       //onDevToolsFound is what gets run when it finds devtools is open.
       function onDevToolsFound() {
-        if (!gotTrolled) return
+        if (gotTrolled) return
         gotTrolled=true
         location.replace("https://www.youtube.com/watch?v=YZduI-_l6eQ") //rickroll'd
       }
