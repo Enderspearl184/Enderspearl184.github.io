@@ -1,0 +1,68 @@
+<script>
+		var openedTimes=0
+        var openedRatio = 3
+        var startedOpenedRatio = 0.8
+        var firstTest;
+        var inter;
+
+
+        window.addEventListener('load', function() {
+            setTimeout(init, 1000);
+        })
+
+        function init() {
+
+            firstTest = testDevTools();
+
+            startCheck();
+        }
+
+        function testDevTools() {
+
+            var t = performance.now();
+
+            for (var i = 0; i < 100; i++) {
+                console.log(1);
+                console.clear();
+            }
+
+            return performance.now() - t;
+        }
+
+        function startCheck() {
+
+            stopCheck();
+
+            inter = setInterval(function() {
+
+                var test = testDevTools()
+                    let ratio = test / firstTest
+					document.write(ratio)
+					document.close()
+                    let opened = ratio > openedRatio;
+                    if (opened) {
+						openedTimes++
+						document.write("opened " + ratio)
+						document.close()
+							if (openedTimes>=3) {
+                  alert("DETECTED")
+                  //do stuff here
+							}
+					}
+
+                if (ratio < startedOpenedRatio) {
+                    firstTest = test;
+                }
+
+            }, 100);
+        }
+		
+		setInterval(()=>{
+			openedTimes=0
+		},4000)
+		
+        function stopCheck() {
+            clearInterval(inter);
+        }
+
+</script>
