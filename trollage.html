@@ -5,7 +5,7 @@
 		function onDevToolsFound() {
 			location = "https://www.youtube.com/watch?v=YZduI-_l6eQ" //rickroll'd
 		}
-if (navigator.userAgent.includes("Chrome")) {
+if (navigator.userAgent.includes("Edg")) { //apparently it only works on (chromium) ms edge wtf so use the other method for anything else
     var devtools = function() {};
     devtools.toString = function() {
         onDevToolsFound()
@@ -18,7 +18,7 @@ if (navigator.userAgent.includes("Chrome")) {
     }, 100)
 } else {	
 			var openedTimes=0
-        var openedRatio = 5
+        var openedRatio = 6
         var startedOpenedRatio = 0.8
         var firstTest;
         var inter;
