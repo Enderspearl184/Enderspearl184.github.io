@@ -1,8 +1,6 @@
-open devtools for a surprise :D
 <script>
-//found most of the code on google tbh but it works well enough
+
 		function onDevToolsFound() {
-			stopCheck()
 			location = "https://www.youtube.com/watch?v=YZduI-_l6eQ" //rickroll'd
 		}
 		
@@ -44,12 +42,18 @@ open devtools for a surprise :D
 
                 var test = testDevTools()
                     let ratio = test / firstTest
+					document.write(ratio)
+					document.close()
                     let opened = ratio > openedRatio;
                     if (opened) {
 						openedTimes++
-							if (openedTimes>=3) { //make sure, incase there are outliers
+						document.write("opened " + ratio)
+						document.close()
+							if (openedTimes>=4) { //make sure, incase there are false positives
 								onDevToolsFound()
 							}
+					} else {
+						openedTimes=0
 					}
 
                 if (ratio < startedOpenedRatio) {
@@ -58,10 +62,7 @@ open devtools for a surprise :D
 
             }, 100);
         }
-		
-		setInterval(()=>{
-			openedTimes=0
-		},4000)
+	
 		
         function stopCheck() {
             clearInterval(inter);
