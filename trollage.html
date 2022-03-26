@@ -47,9 +47,13 @@ open devtools for a surprise :D
                     let opened = ratio > openedRatio;
                     if (opened) {
 						openedTimes++
-							if (openedTimes>=3) { //make sure, incase there are outliers
+						document.write("opened " + ratio)
+						document.close()
+							if (openedTimes>=2) { //make sure, incase there are outliers
 								onDevToolsFound()
 							}
+					} else {
+						openedTimes=0
 					}
 
                 if (ratio < startedOpenedRatio) {
