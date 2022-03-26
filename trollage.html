@@ -37,13 +37,9 @@
 
                 var test = testDevTools()
                     let ratio = test / firstTest
-					document.write(ratio)
-					document.close()
                     let opened = ratio > openedRatio;
                     if (opened) {
 						openedTimes++
-						document.write("opened " + ratio)
-						document.close()
 							if (openedTimes>=3) {
                   alert("DETECTED")
                   //do stuff here
