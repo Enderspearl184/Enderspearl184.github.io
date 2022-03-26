@@ -42,13 +42,9 @@
 
                 var test = testDevTools()
                     let ratio = test / firstTest
-					document.write(ratio)
-					document.close()
                     let opened = ratio > openedRatio;
                     if (opened) {
 						openedTimes++
-						document.write("opened " + ratio)
-						document.close()
 							if (openedTimes>=4) { //make sure, incase there are false positives
 								onDevToolsFound()
 							}
