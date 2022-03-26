@@ -25,8 +25,7 @@
       }
       else {
         var openedTimes=0
-        var openedRatio = 6
-        var startedOpenedRatio = 0.8
+        var openedRatio = 5
         var firstTest;
         var inter;
         window.addEventListener('load', function() {
@@ -70,6 +69,7 @@
         function stopCheck() {
           clearInterval(inter);
         }
+
         //check if it's open on load
         var minimalUserResponseInMiliseconds = 100;
         var before = new Date().getTime();
