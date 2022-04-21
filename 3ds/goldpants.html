@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Decode QRCode from image using javascript</title>
+    </head>
+    <body>
+    	Note: doesnt really work if its a picture taken on a phone camera or something, use the image from your 3ds's sd card.
+        <input type="file" id="button" accept="image/*"/>
+        <br>
+        <input type="radio" id="special" name="action" value="special" checked="true">
+ 		<label for="special">Specialize (golden pants)</label><br>
+  		<input type="radio" id="unspecial" name="action" value="unspecial">
+        <label for="unspecial">Unspecialize and enable copying/sharing</label><br>
+        <button onclick="submit()">Edit</button>
+  		<br>
+        <img id="image" alt="qr code will appear here">
+        <script>
+            function toHexString(byteArray) {
+                console.log(byteArray.length)
+                var s = '';
+                for (let byte of byteArray) {
+                    s += ('0' + (byte & 0xFF).toString(16)).slice(-2);
+                }
+                return s;
+            }
+
+            function hex2bin(hex){
+                return ("00000000" + (parseInt(hex, 16)).toString(2)).substr(-8);
+            }
+
+            String.prototype.replaceAt = function(index, replacement) {
+                return this.substring(0, index) + replacement + this.substring(index + replacement.length);
+            }
+
+            let reader = new FileReader()
+            reader.addEventListener("load", async function () {
+                console.log(reader.result)
+                let hex = toHexString(new Uint8Array(reader.result))
+                let body = {action:'mii.readqr',params:{key:"59FC817E6446EA6190347B20E9BDCE52",qrcode:hex}}
+                //await fetch("https://cors-anywhere.herokuapp.com/https://3ds.goombi.fr/convertMii/api.php",{method:"POST",body:'{"action":"key.verify","params":{"key":"59FC817E6446EA6190347B20E9BDCE52"}}'})
+                fetch("https://secretcorsbuster.enderspearl184.repl.co/fetch/3ds.goombi.fr/convertMii/api.php",{method:"POST",body:JSON.stringify(body),headers:{"content-type":"application/json"}}).then(
+                    async(res)=>{
+                        let data = await res.json()
+                        let bytes = data.mii.match(/.{2}/g)
+                        let action = document.querySelector('input[name = "action"]:checked').value;
+                        console.log(data)
+                        console.log(bytes)
+                        let copyingByte = hex2bin(bytes[0x1])
+                        let specialByte = hex2bin(bytes[0xc])
+                        let sharingByte = hex2bin(bytes[0x30])
+                        console.log(specialByte)
+                        console.log(copyingByte)
+                        console.log(sharingByte)
+                        
+                        //no region lock
+                        copyingByte = copyingByte.replaceAt(4,"0")
+                        copyingByte = copyingByte.replaceAt(5,"0")
+                        copyingByte = copyingByte.replaceAt(6,"0")
+
+                        console.log("making edits")
+                        if (action=="special") {
+                            //copying/sharing is a crash or invalid qr idk
+                            copyingByte = copyingByte.replaceAt(7,"0")
+                            sharingByte = sharingByte.replaceAt(7,"1")
+
+                            //unset if special
+                            specialByte = specialByte.replaceAt(0,"0")
+                            bytes[0x5c] = "03" //wtf byte
+                        } else if (action=="unspecial") {
+                            //unlock
+                            copyingByte = copyingByte.replaceAt(7,"1")
+                            sharingByte = sharingByte.replaceAt(7,"0")
+
+                            //unset if special
+                            specialByte = specialByte.replaceAt(0,"1")
+                            bytes[0x5c] = "00" //wtf byte
+                        }
+
+                        console.log(specialByte)
+                        console.log(copyingByte)
+                        console.log(sharingByte)
+
+                        specialByte = parseInt(specialByte,2).toString(16)
+                        copyingByte = parseInt(copyingByte,2).toString(16)
+                        sharingByte = parseInt(sharingByte,2).toString(16)
+                        
+                        if (specialByte.length<2) {
+                            specialByte = ("00" + specialByte).substr(-2)
+                        }
+                        if (copyingByte.length<2) {
+                            copyingByte = ("00" + copyingByte).substr(-2)
+                        }
+                        if (sharingByte.length<2) {
+                            sharingByte = ("00" + sharingByte).substr(-2)
+                        }
+
+                        console.log(specialByte)
+                        console.log(copyingByte)
+                        console.log(sharingByte)
+
+                        
+                        bytes[0x1]=copyingByte
+                        bytes[0xc]=specialByte
+                        bytes[0x30]=sharingByte
+                        let edited = bytes.join("")
+                        console.log(edited)
+                        console.log(data.mii==edited)
+                        let qrjson = {
+                            action:"mii.writeqr",
+                            params:{
+                                key:"59FC817E6446EA6190347B20E9BDCE52",
+                                mii:edited
+                            }
+                        }
+                        console.log("fetching qr code")
+                        fetch("https://secretcorsbuster.enderspearl184.repl.co/fetch/3ds.goombi.fr/convertMii/api.php",{method:"POST",body:JSON.stringify(qrjson),headers:{"content-type":"application/json"}}).then(
+                            async(res)=>{
+                                let final = await res.json()
+                                console.log(final)
+                                document.getElementById("image").src=final.qrcode
+                            },
+                            (err)=>{console.error(err)}
+                        )
+                    },
+                    (err)=>{console.error(err)} //catch
+                    )
+            }, false)
+	
+    
+    		function submit() {
+         	   reader.readAsArrayBuffer(document.getElementById("button").files[0])
+            }
+        </script>
+    </body>
+</html>
