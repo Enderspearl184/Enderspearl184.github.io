@@ -5,31 +5,52 @@
         <title>make golden pants qr codes easily</title>
     </head>
     <body>
-    	Use the Start/Stop buttons to scan from webcam. Alternatively you can use the Choose File button, but that tends to work less.
+    	Use your webcam or upload an image of the QR code, and click Edit.
+        Any QR code returned will have the region lock removed, if there was one.
         <br>
-        When using the webcam, it immediately generates the qr code, with the chosen setting.
-        <br>
-        Otherwise, you need to click Edit to edit the Mii in the QR code.
+        Click "Edit" to generate the modified QR code.
 	    <br>
         <div class="make">
             <video id="video" width="0%"></video>
         </div>
         <div>
+        	Webcam Scan<br>
             <button id="start">Start</button>
             <button id="stop">Stop</button>
         </div>
         <br>
+        Image Upload<br>
+        <input type="file" id="button" accept="image/*" style="display:none"/>
+        <button onclick="document.getElementById('button').click()">Select Image</button>
         <br>
-        <input type="file" id="button" accept="image/*"/>
         <br>
+        Specializing Options <br>
         <input type="radio" id="special" name="action" value="special" checked="true">
  		<label for="special">Specialize (golden pants)</label><br>
   		<input type="radio" id="unspecial" name="action" value="unspecial">
         <label for="unspecial">Unspecialize and enable copying/sharing</label><br>
+        <input type="radio" id="none" name="action" value="none">
+        <label for="none">Neither</label><br>
+        <br>
+       
+        Mii System (Generated QR codes still only work on 3ds though)<br>
+        <input type="radio" id="none" name="system" value="none" checked="true">
+ 		<label for="none">Don't change system</label><br>
+  		<input type="radio" id="ds" name="system" value="ds">
+        <label for="ds">DS</label><br>
+        <input type="radio" id="3ds" name="system" value="3ds">
+        <label for="3ds">3DS</label><br>
+        <input type="radio" id="wii" name="system" value="wii">
+        <label for="wii">Wii</label><br>
+        <input type="radio" id="wiiu" name="system" value="wiiu">
+        <label for="wiiu">Wii U / Switch</label><br>
+        <br>
+        
         <button onclick="submit()">Edit</button>
   		<br>
         <div id="status">Status: none</div>
-        <img id="image" alt="qr code will appear here">
+        <img id="image" alt="qr code will appear here"/>
+        <img id="secret" style="display:none"/>
         <!-- Basically the canvas exists to get a png image of a regenerated qr code. spaghetti code at it's finest but like it works so idc></!-->
         <canvas style="display:none" id="canvas" width="300px" height="300px"/>
         <script type="text/javascript" src="https://unpkg.com/@zxing/library@latest"></script>
@@ -902,7 +923,8 @@
 
 
             let reader = new FileReader()
-
+			var qrData;
+            
             async function main(hex) {
                 let body = {action:'mii.readqr',params:{key:"59FC817E6446EA6190347B20E9BDCE52",qrcode:hex}}
                 document.getElementById("status").innerText = "Status: Sending request to convertMii (Decoding Mii Data)"
@@ -915,14 +937,17 @@
                         document.getElementById("status").innerText = "Status: Editing data."
                         let bytes = data.mii.match(/.{2}/g)
                         let action = document.querySelector('input[name = "action"]:checked').value;
+                        let system = document.querySelector('input[name = "system"]:checked').value;
                         console.log(data)
                         console.log(bytes)
                         let copyingByte = hex2bin(bytes[0x1])
                         let specialByte = hex2bin(bytes[0xc])
                         let sharingByte = hex2bin(bytes[0x30])
+                        let systemByte = hex2bin(bytes[0x3])
                         console.log(specialByte)
                         console.log(copyingByte)
                         console.log(sharingByte)
+                        console.log(systemByte)
                         
                         //no region lock
                         copyingByte = copyingByte.replaceAt(4,"0")
@@ -947,15 +972,26 @@
                             specialByte = specialByte.replaceAt(0,"1")
                             bytes[0x5c] = "00" //wtf byte
                         }
+                        
+                        if (system=="ds") {
+                        	systemByte="00100000"
+                        } else if (system=="3ds") {
+                        	systemByte="00110000"
+                        } else if (system=="wii") {
+                        	systemByte="00010000"
+                        } else if (system=="wiiu") {
+                        	systemByte="01000000"
+                        }
 
                         console.log(specialByte)
                         console.log(copyingByte)
                         console.log(sharingByte)
-
+						console.log(systemByte)
+                        
                         specialByte = parseInt(specialByte,2).toString(16)
                         copyingByte = parseInt(copyingByte,2).toString(16)
                         sharingByte = parseInt(sharingByte,2).toString(16)
-                        
+                        systemByte  = parseInt(systemByte,2).toString(16)
                         if (specialByte.length<2) {
                             specialByte = ("00" + specialByte).substr(-2)
                         }
@@ -965,13 +1001,17 @@
                         if (sharingByte.length<2) {
                             sharingByte = ("00" + sharingByte).substr(-2)
                         }
+                        if (systemByte.length<2) {
+                            systemByte = ("00" + systemByte).substr(-2)
+                        }
 
                         console.log(specialByte)
                         console.log(copyingByte)
                         console.log(sharingByte)
-
+						console.log(systemByte)
                         
                         bytes[0x1]=copyingByte
+                        bytes[0x3]=systemByte
                         bytes[0xc]=specialByte
                         bytes[0x30]=sharingByte
                         let edited = bytes.join("")
@@ -1003,30 +1043,33 @@
                     (err)=>{console.error(err);document.getElementById("status").innerText = "Status: Failed request to convertMii (Decoding QR Code)"} //catch
                     )
             }
-
+			
+            var dataType;
             reader.addEventListener("load", async function () {
-                console.log(reader.result)
-                let hex = toHexString(new Uint8Array(reader.result))
-                main(hex)
+            	console.log(reader.result)
+                qrData = new Uint8Array(reader.result)
+                dataType=1
             }, false)
 	
+  			document.getElementById("button").addEventListener("change", async function() {
+            	try {
+                    reader.readAsArrayBuffer(document.getElementById("button").files[0])
+                } catch (err) {console.error(err)}
+            },true)
     
     		function submit() {
-                if (document.getElementById("button").files[0]) {
-         	        reader.readAsArrayBuffer(document.getElementById("button").files[0])
-                } else {
-                    document.getElementById("status").innerText = "Status: File not found."
+                if (!qrData) {
+                    return document.getElementById("status").innerText = "Status: File not found."
                 }
-            }
-
-
-    function decodeOnce(codeReader, selectedDeviceId, reset) {
-        codeReader.decodeFromInputVideoDevice(selectedDeviceId, 'video').then((result) => {
-            console.log(result)
+                if (dataType==1) {
+                	let hex = toHexString(qrData)
+                	return main(hex) //send qr image as is
+                }
+                
+                //regen qr code and send that
             var QRC = qrcodegen.QrCode;
-            var qr = QRC.encodeBinary(result.resultMetadata.get(2)[0],QRC.Ecc.LOW) //result.resultMetadata.get(2)[0] is the only way to get the raw bytes UNMODIFIED for some fucking reason
+            var qr = QRC.encodeBinary(qrData,QRC.Ecc.LOW)
             console.log(qr)
-            reset()
             let canvas= document.getElementById("canvas")
             var width = (qr.size + 20 * 2) * 3 
             canvas.width = width;
@@ -1045,6 +1088,15 @@
                 });
                 reader.readAsArrayBuffer(blob);
             });
+            }
+
+
+    function decodeOnce(codeReader, selectedDeviceId, reset) {
+        codeReader.decodeFromInputVideoDevice(selectedDeviceId, 'video').then((result) => {
+            console.log(result)
+            reset()
+            qrData = result.resultMetadata.get(2)[0]
+            dataType=2
         }).catch((err) => {
             console.error(err)
             codeReader.reset()
