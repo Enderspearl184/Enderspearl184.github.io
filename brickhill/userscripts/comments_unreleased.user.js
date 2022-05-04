@@ -34,14 +34,14 @@ function sleep(ms) {
     while (!query) { //waiting until it exists because it's important!
         query=document.querySelector('meta[name="og:title"]')
         if (query) query=query.getAttribute('content');
-        await sleep(1)
+        await sleep(0)
     }
     const polymorphic_type=1;
     if (query=="Not Authorized - Brick Hill") {
         let errortext=document.querySelector('span[style="font-weight:600;font-size:3rem;display:block;"]');
         while (!errortext) { //waiting until it exists just because document-start, and it looks better if it's IN the main container
             errortext=document.querySelector('span[style="font-weight:600;font-size:3rem;display:block;"]');
-            await sleep(1)
+            await sleep(0)
         }
         //it errored!!
         let pathSplit=location.pathname.split("/");
