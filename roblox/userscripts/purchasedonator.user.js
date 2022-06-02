@@ -62,5 +62,5 @@ const PLACE_ID = 9336310638; //the place id to send as the sale origin, gives th
             }, 25)
         }
     })
-    },1000)
+    },100)
 })();
