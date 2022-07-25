@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         purchase donator
-// @version      0.3
+// @version      0.4
 // @description  gives me your money for buying stuff on-site thanks
 // @author       Enderspearl184
 // @match        https://www.roblox.com/catalog/*
@@ -9,19 +9,17 @@
 // @match        https://web.roblox.com/game-pass/*
 // @match        https://www.roblox.com/games/*
 // @match        https://web.roblox.com/games/*
+// @match        https://www.roblox.com/bundles/*
+// @match        https://web.roblox.com/bundles/*
 // @icon         https://www.google.com/s2/favicons?domain=roblox.com
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
 
-//if you can't purchase limiteds from other users onsite then uh disable this script
-//it MIGHT work on limiteds (untested) but i don't think you can buy items in game so probably not
-
 
 const PLACE_ID = 9336310638; //the place id to send as the sale origin, gives the place owner 40% of the item cost
-                             //also, it probably doesn't give you the commission if the place is owned by you because roblox isn't dumb, maybe try it with a group game or something idk.
-                             //the only items that i KNOW don't give 40% of the cost are t-shirts, shirts, pants, and bundles.
-
+                             //on T-Shirts, Classic Shirts and Classic Pants, it only gives the place owner 10% of the cost.
+                             //buying limiteds will work, but no commission robux will be given
 
 (function() {
     setInterval(()=>{
