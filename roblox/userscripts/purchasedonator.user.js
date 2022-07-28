@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         purchase donator
-// @version      0.4
-// @description  gives me your money for buying stuff on-site thanks
+// @name         Roblox 40%/10% off items
+// @version      0.6
+// @description  Pretend you bought items inside a game, giving you a discount of either 40% or 10% via commissions robux.
 // @author       Enderspearl184
 // @match        https://www.roblox.com/catalog/*
 // @match        https://web.roblox.com/catalog/*
@@ -11,6 +11,8 @@
 // @match        https://web.roblox.com/games/*
 // @match        https://www.roblox.com/bundles/*
 // @match        https://web.roblox.com/bundles/*
+// @match        https://www.roblox.com/library/*
+// @match        https://web.roblox.com/library/*
 // @icon         https://www.google.com/s2/favicons?domain=roblox.com
 // @run-at       document-end
 // @grant        none
